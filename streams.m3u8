@@ -1,3 +1,22 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="America24.yt" tvg-name="América 24" group-title="Nacionales", América 24
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1721382358/ei/duGZZreiMZ2-lu8Ph_OGwAQ/ip/172.183.131.174/id/QGpHLgRnrx4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066118/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAbdK7vF5QNFTmGI4pvV-yFSj6SRd8lmVErSNwYN7CxjPh91q2qO-Itf4xNs/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgBs-sGY1xuqcmy8gjNE03Ec60wj7ea3ep4wckrPX3VjQCIAO1l0gV9xBOZFsex_jbBxLU-pLaTdOtXLOvgTvYlVvw/file/index.m3u8
+
+#EXTINF:-1 tvg-id="C5N.yt" tvg-name="C5N" group-title="Nacionales", C5N
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1721382359/ei/d-GZZs_tDpSqlu8P2ra4iA8/ip/172.183.131.174/id/Hy4UCfsE6Yk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAbEy5rWN4d0dqC537-oH9lS0GGTJPc8udXoiVLk-mEEpu4ThCPu3Z-6-ZBo/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgB3GzZzdf7un0FY3Em4pLKVF94UTcWDSvr1uGr30gFi0CIQCokYBExWdOqLBJylLGw5yWaItAB4dokhHCa-AgyNA-Qg%3D%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal26.yt" tvg-name="Canal 26" group-title="Nacionales", Canal 26
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1721382359/ei/d-GZZtbLMJTfir4PnZq6oAE/ip/172.183.131.174/id/RnTmtVFTSf0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAS2bU77fFQ9ILyoOZvg-TWW9yjkhJ9ukVVfeLOP_7-ZtOqxHLuIanrS5MRk/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgTdLeoSv7BqtqupRG5JjX24HGSyC2MmoHciyhUerKV34CIQCE9Vakzx4ht018ByV4qA3dGD9bT1V-fsO8KJR64NWU1w%3D%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-id="CronicaTV.yt" tvg-name="Crónica TV" group-title="Nacionales", Crónica TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1721382360/ei/eOGZZrGII-7CybgPhLWG-AU/ip/172.183.131.174/id/avly0uwZzOE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAR4WtghzGAWDLN9FoOcfjQ1sz_PFIhRarcddgH_rWxUHAhf8Z5JfBaXw8Sw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhANf4ueRPgHvL7ms0Dmx0_-HNq9kYn0-SL4D-slveanqoAiEA8GuQMqGpQo9dGicZJejSZQALuILuJwOn90yr-5rNd7Q%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-id="LN.yt" tvg-name="La Nación" group-title="Nacionales", La Nación
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1721382361/ei/eeGZZtP3CcGU2_gPmZmo0AU/ip/172.183.131.174/id/ocFG3yor--M.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAeyeZoTOE5C5i9oLLEXTnq9JxMOAxSriGowQY1SMSzZLMcT8Xpsqduw42vQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgEmPy4OKZoFpiMof4galS7wS4BJXth9g_Z-Hdrj-yJwECIQCLuD8ZzYlLrGqe1yoYHdLe9BZJ1tqcPZ5cf8OYb6opfw%3D%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-id="TVPublica.yt" tvg-name="TV Pública" group-title="Nacionales", TV Pública
+
+#EXTINF:-1 tvg-id="AmericaTV.yt" tvg-name="América TV" group-title="Nacionales", América TV
+
 #EXTINF:-1 tvg-id="ElNueve.tt" tvg-name="El Nueve" group-title="Nacionales", El Nueve
