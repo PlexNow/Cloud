@@ -1,4 +1,47 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
+  <channel id="TN.yt">
+    <display-name lang="en">TN Todo Noticias</display-name>
+  </channel>
+  <programme channel="TN.yt" start="20240719020000 +0100" stop="20240719050000 +0100">
+    <title lang="en">TN EN VIVO I SEGUÍ LA TRANSMISIÓN EN VIVO DE TODO NOTICIAS</title>
+    <desc lang="en">SEGUÍ LA TRANSMISIÓN EN VIVO DE TODO NOTICIASMirá la programación de Todo Noticias durante las 24hs del día en la Argentina y en el mundo. ★ Suscribite a nue...</desc>
+    <icon src="https://i.ytimg.com/vi/cb12KmMMDJA/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="TN.yt" start="20240719050000 +0100" stop="20240719080000 +0100">
+    <title lang="en">TN EN VIVO I SEGUÍ LA TRANSMISIÓN EN VIVO DE TODO NOTICIAS</title>
+    <desc lang="en">SEGUÍ LA TRANSMISIÓN EN VIVO DE TODO NOTICIASMirá la programación de Todo Noticias durante las 24hs del día en la Argentina y en el mundo. ★ Suscribite a nue...</desc>
+    <icon src="https://i.ytimg.com/vi/cb12KmMMDJA/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="TN.yt" start="20240719080000 +0100" stop="20240719110000 +0100">
+    <title lang="en">TN EN VIVO I SEGUÍ LA TRANSMISIÓN EN VIVO DE TODO NOTICIAS</title>
+    <desc lang="en">SEGUÍ LA TRANSMISIÓN EN VIVO DE TODO NOTICIASMirá la programación de Todo Noticias durante las 24hs del día en la Argentina y en el mundo. ★ Suscribite a nue...</desc>
+    <icon src="https://i.ytimg.com/vi/cb12KmMMDJA/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="TN.yt" start="20240719110000 +0100" stop="20240719140000 +0100">
+    <title lang="en">TN EN VIVO I SEGUÍ LA TRANSMISIÓN EN VIVO DE TODO NOTICIAS</title>
+    <desc lang="en">SEGUÍ LA TRANSMISIÓN EN VIVO DE TODO NOTICIASMirá la programación de Todo Noticias durante las 24hs del día en la Argentina y en el mundo. ★ Suscribite a nue...</desc>
+    <icon src="https://i.ytimg.com/vi/cb12KmMMDJA/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="TN.yt" start="20240719140000 +0100" stop="20240719170000 +0100">
+    <title lang="en">TN EN VIVO I SEGUÍ LA TRANSMISIÓN EN VIVO DE TODO NOTICIAS</title>
+    <desc lang="en">SEGUÍ LA TRANSMISIÓN EN VIVO DE TODO NOTICIASMirá la programación de Todo Noticias durante las 24hs del día en la Argentina y en el mundo. ★ Suscribite a nue...</desc>
+    <icon src="https://i.ytimg.com/vi/cb12KmMMDJA/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="TN.yt" start="20240719170000 +0100" stop="20240719200000 +0100">
+    <title lang="en">TN EN VIVO I SEGUÍ LA TRANSMISIÓN EN VIVO DE TODO NOTICIAS</title>
+    <desc lang="en">SEGUÍ LA TRANSMISIÓN EN VIVO DE TODO NOTICIASMirá la programación de Todo Noticias durante las 24hs del día en la Argentina y en el mundo. ★ Suscribite a nue...</desc>
+    <icon src="https://i.ytimg.com/vi/cb12KmMMDJA/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="TN.yt" start="20240719200000 +0100" stop="20240719230000 +0100">
+    <title lang="en">TN EN VIVO I SEGUÍ LA TRANSMISIÓN EN VIVO DE TODO NOTICIAS</title>
+    <desc lang="en">SEGUÍ LA TRANSMISIÓN EN VIVO DE TODO NOTICIASMirá la programación de Todo Noticias durante las 24hs del día en la Argentina y en el mundo. ★ Suscribite a nue...</desc>
+    <icon src="https://i.ytimg.com/vi/cb12KmMMDJA/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="TN.yt" start="20240719230000 +0100" stop="20240720020000 +0100">
+    <title lang="en">TN EN VIVO I SEGUÍ LA TRANSMISIÓN EN VIVO DE TODO NOTICIAS</title>
+    <desc lang="en">SEGUÍ LA TRANSMISIÓN EN VIVO DE TODO NOTICIASMirá la programación de Todo Noticias durante las 24hs del día en la Argentina y en el mundo. ★ Suscribite a nue...</desc>
+    <icon src="https://i.ytimg.com/vi/cb12KmMMDJA/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="Chillhop.yt">
     <display-name lang="en">Chillhop Music (jazzy &amp; lofi hip hop beats)</display-name>
   </channel>
