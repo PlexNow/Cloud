@@ -42,6 +42,49 @@
     <desc lang="en">📺  A24 EN VIVO Informate en #A24COM 👉 Periodismo en tus manos📲 ¡Suscribite a nuestro canal! → https://bit.ly/3JLFJIC🖥 Encontrá más noticias y todo sobre ...</desc>
     <icon src="https://i.ytimg.com/vi/QGpHLgRnrx4/maxresdefault_live.jpg"/>
   </programme>
+  <channel id="C5N.yt">
+    <display-name lang="en">C5N</display-name>
+  </channel>
+  <programme channel="C5N.yt" start="20240719220000 +0100" stop="20240720010000 +0100">
+    <title lang="en">C5N EN VIVO | Toda la información en un solo lugar - Seguí la transmisión las 24 horas</title>
+    <desc lang="en">Ingresá en nuestro sitio web - https://www.c5n.com. Suscribite a nuestro canal: https://bit.ly/C5NYouTubeSeguinos también en:· Instagram: https://www.instagr...</desc>
+    <icon src="https://i.ytimg.com/vi/NdQSOItOQ5Y/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="C5N.yt" start="20240720010000 +0100" stop="20240720040000 +0100">
+    <title lang="en">C5N EN VIVO | Toda la información en un solo lugar - Seguí la transmisión las 24 horas</title>
+    <desc lang="en">Ingresá en nuestro sitio web - https://www.c5n.com. Suscribite a nuestro canal: https://bit.ly/C5NYouTubeSeguinos también en:· Instagram: https://www.instagr...</desc>
+    <icon src="https://i.ytimg.com/vi/NdQSOItOQ5Y/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="C5N.yt" start="20240720040000 +0100" stop="20240720070000 +0100">
+    <title lang="en">C5N EN VIVO | Toda la información en un solo lugar - Seguí la transmisión las 24 horas</title>
+    <desc lang="en">Ingresá en nuestro sitio web - https://www.c5n.com. Suscribite a nuestro canal: https://bit.ly/C5NYouTubeSeguinos también en:· Instagram: https://www.instagr...</desc>
+    <icon src="https://i.ytimg.com/vi/NdQSOItOQ5Y/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="C5N.yt" start="20240720070000 +0100" stop="20240720100000 +0100">
+    <title lang="en">C5N EN VIVO | Toda la información en un solo lugar - Seguí la transmisión las 24 horas</title>
+    <desc lang="en">Ingresá en nuestro sitio web - https://www.c5n.com. Suscribite a nuestro canal: https://bit.ly/C5NYouTubeSeguinos también en:· Instagram: https://www.instagr...</desc>
+    <icon src="https://i.ytimg.com/vi/NdQSOItOQ5Y/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="C5N.yt" start="20240720100000 +0100" stop="20240720130000 +0100">
+    <title lang="en">C5N EN VIVO | Toda la información en un solo lugar - Seguí la transmisión las 24 horas</title>
+    <desc lang="en">Ingresá en nuestro sitio web - https://www.c5n.com. Suscribite a nuestro canal: https://bit.ly/C5NYouTubeSeguinos también en:· Instagram: https://www.instagr...</desc>
+    <icon src="https://i.ytimg.com/vi/NdQSOItOQ5Y/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="C5N.yt" start="20240720130000 +0100" stop="20240720160000 +0100">
+    <title lang="en">C5N EN VIVO | Toda la información en un solo lugar - Seguí la transmisión las 24 horas</title>
+    <desc lang="en">Ingresá en nuestro sitio web - https://www.c5n.com. Suscribite a nuestro canal: https://bit.ly/C5NYouTubeSeguinos también en:· Instagram: https://www.instagr...</desc>
+    <icon src="https://i.ytimg.com/vi/NdQSOItOQ5Y/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="C5N.yt" start="20240720160000 +0100" stop="20240720190000 +0100">
+    <title lang="en">C5N EN VIVO | Toda la información en un solo lugar - Seguí la transmisión las 24 horas</title>
+    <desc lang="en">Ingresá en nuestro sitio web - https://www.c5n.com. Suscribite a nuestro canal: https://bit.ly/C5NYouTubeSeguinos también en:· Instagram: https://www.instagr...</desc>
+    <icon src="https://i.ytimg.com/vi/NdQSOItOQ5Y/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="C5N.yt" start="20240720190000 +0100" stop="20240720220000 +0100">
+    <title lang="en">C5N EN VIVO | Toda la información en un solo lugar - Seguí la transmisión las 24 horas</title>
+    <desc lang="en">Ingresá en nuestro sitio web - https://www.c5n.com. Suscribite a nuestro canal: https://bit.ly/C5NYouTubeSeguinos también en:· Instagram: https://www.instagr...</desc>
+    <icon src="https://i.ytimg.com/vi/NdQSOItOQ5Y/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="Canal26.yt">
     <display-name lang="en">Canal 26</display-name>
   </channel>
@@ -299,6 +342,92 @@
     <title lang="en">TN EN VIVO I SEGUÍ LA TRANSMISIÓN EN VIVO DE TODO NOTICIAS</title>
     <desc lang="en">SEGUÍ LA TRANSMISIÓN EN VIVO DE TODO NOTICIASMirá la programación de Todo Noticias durante las 24hs del día en la Argentina y en el mundo. ★ Suscribite a nue...</desc>
     <icon src="https://i.ytimg.com/vi/cb12KmMMDJA/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="CanalRural.yt">
+    <display-name lang="en">Canal Rural</display-name>
+  </channel>
+  <programme channel="CanalRural.yt" start="20240719220000 +0100" stop="20240720010000 +0100">
+    <title lang="en">CANAL RURAL EN VIVO</title>
+    <desc lang="en">¡Seguinos para estar al tanto de todas nuestras novedades y contenido exclusivo sobre el mundo rural! 🌾🚜▶️ ¡Descubrí nuestra comunidad en YouTube! ➯  https...</desc>
+    <icon src="https://i.ytimg.com/vi/0eA-D1S7jRE/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="CanalRural.yt" start="20240720010000 +0100" stop="20240720040000 +0100">
+    <title lang="en">CANAL RURAL EN VIVO</title>
+    <desc lang="en">¡Seguinos para estar al tanto de todas nuestras novedades y contenido exclusivo sobre el mundo rural! 🌾🚜▶️ ¡Descubrí nuestra comunidad en YouTube! ➯  https...</desc>
+    <icon src="https://i.ytimg.com/vi/0eA-D1S7jRE/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="CanalRural.yt" start="20240720040000 +0100" stop="20240720070000 +0100">
+    <title lang="en">CANAL RURAL EN VIVO</title>
+    <desc lang="en">¡Seguinos para estar al tanto de todas nuestras novedades y contenido exclusivo sobre el mundo rural! 🌾🚜▶️ ¡Descubrí nuestra comunidad en YouTube! ➯  https...</desc>
+    <icon src="https://i.ytimg.com/vi/0eA-D1S7jRE/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="CanalRural.yt" start="20240720070000 +0100" stop="20240720100000 +0100">
+    <title lang="en">CANAL RURAL EN VIVO</title>
+    <desc lang="en">¡Seguinos para estar al tanto de todas nuestras novedades y contenido exclusivo sobre el mundo rural! 🌾🚜▶️ ¡Descubrí nuestra comunidad en YouTube! ➯  https...</desc>
+    <icon src="https://i.ytimg.com/vi/0eA-D1S7jRE/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="CanalRural.yt" start="20240720100000 +0100" stop="20240720130000 +0100">
+    <title lang="en">CANAL RURAL EN VIVO</title>
+    <desc lang="en">¡Seguinos para estar al tanto de todas nuestras novedades y contenido exclusivo sobre el mundo rural! 🌾🚜▶️ ¡Descubrí nuestra comunidad en YouTube! ➯  https...</desc>
+    <icon src="https://i.ytimg.com/vi/0eA-D1S7jRE/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="CanalRural.yt" start="20240720130000 +0100" stop="20240720160000 +0100">
+    <title lang="en">CANAL RURAL EN VIVO</title>
+    <desc lang="en">¡Seguinos para estar al tanto de todas nuestras novedades y contenido exclusivo sobre el mundo rural! 🌾🚜▶️ ¡Descubrí nuestra comunidad en YouTube! ➯  https...</desc>
+    <icon src="https://i.ytimg.com/vi/0eA-D1S7jRE/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="CanalRural.yt" start="20240720160000 +0100" stop="20240720190000 +0100">
+    <title lang="en">CANAL RURAL EN VIVO</title>
+    <desc lang="en">¡Seguinos para estar al tanto de todas nuestras novedades y contenido exclusivo sobre el mundo rural! 🌾🚜▶️ ¡Descubrí nuestra comunidad en YouTube! ➯  https...</desc>
+    <icon src="https://i.ytimg.com/vi/0eA-D1S7jRE/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="CanalRural.yt" start="20240720190000 +0100" stop="20240720220000 +0100">
+    <title lang="en">CANAL RURAL EN VIVO</title>
+    <desc lang="en">¡Seguinos para estar al tanto de todas nuestras novedades y contenido exclusivo sobre el mundo rural! 🌾🚜▶️ ¡Descubrí nuestra comunidad en YouTube! ➯  https...</desc>
+    <icon src="https://i.ytimg.com/vi/0eA-D1S7jRE/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="DiputadosTV.yt">
+    <display-name lang="en">Diputados TV</display-name>
+  </channel>
+  <programme channel="DiputadosTV.yt" start="20240719220000 +0100" stop="20240720010000 +0100">
+    <title lang="en">DIPUTADOS TV  ARGENTINA - en vivo las 24 hs.</title>
+    <desc lang="en">Transmisión en directo las 24 horas del canal de televisión @DTV DIPUTADOS TELEVISIÓN Mantenete informado de todo lo que pasa, la actualidad legislativa, ses...</desc>
+    <icon src="https://i.ytimg.com/vi/PLqOXeFTnMY/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="DiputadosTV.yt" start="20240720010000 +0100" stop="20240720040000 +0100">
+    <title lang="en">DIPUTADOS TV  ARGENTINA - en vivo las 24 hs.</title>
+    <desc lang="en">Transmisión en directo las 24 horas del canal de televisión @DTV DIPUTADOS TELEVISIÓN Mantenete informado de todo lo que pasa, la actualidad legislativa, ses...</desc>
+    <icon src="https://i.ytimg.com/vi/PLqOXeFTnMY/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="DiputadosTV.yt" start="20240720040000 +0100" stop="20240720070000 +0100">
+    <title lang="en">DIPUTADOS TV  ARGENTINA - en vivo las 24 hs.</title>
+    <desc lang="en">Transmisión en directo las 24 horas del canal de televisión @DTV DIPUTADOS TELEVISIÓN Mantenete informado de todo lo que pasa, la actualidad legislativa, ses...</desc>
+    <icon src="https://i.ytimg.com/vi/PLqOXeFTnMY/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="DiputadosTV.yt" start="20240720070000 +0100" stop="20240720100000 +0100">
+    <title lang="en">DIPUTADOS TV  ARGENTINA - en vivo las 24 hs.</title>
+    <desc lang="en">Transmisión en directo las 24 horas del canal de televisión @DTV DIPUTADOS TELEVISIÓN Mantenete informado de todo lo que pasa, la actualidad legislativa, ses...</desc>
+    <icon src="https://i.ytimg.com/vi/PLqOXeFTnMY/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="DiputadosTV.yt" start="20240720100000 +0100" stop="20240720130000 +0100">
+    <title lang="en">DIPUTADOS TV  ARGENTINA - en vivo las 24 hs.</title>
+    <desc lang="en">Transmisión en directo las 24 horas del canal de televisión @DTV DIPUTADOS TELEVISIÓN Mantenete informado de todo lo que pasa, la actualidad legislativa, ses...</desc>
+    <icon src="https://i.ytimg.com/vi/PLqOXeFTnMY/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="DiputadosTV.yt" start="20240720130000 +0100" stop="20240720160000 +0100">
+    <title lang="en">DIPUTADOS TV  ARGENTINA - en vivo las 24 hs.</title>
+    <desc lang="en">Transmisión en directo las 24 horas del canal de televisión @DTV DIPUTADOS TELEVISIÓN Mantenete informado de todo lo que pasa, la actualidad legislativa, ses...</desc>
+    <icon src="https://i.ytimg.com/vi/PLqOXeFTnMY/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="DiputadosTV.yt" start="20240720160000 +0100" stop="20240720190000 +0100">
+    <title lang="en">DIPUTADOS TV  ARGENTINA - en vivo las 24 hs.</title>
+    <desc lang="en">Transmisión en directo las 24 horas del canal de televisión @DTV DIPUTADOS TELEVISIÓN Mantenete informado de todo lo que pasa, la actualidad legislativa, ses...</desc>
+    <icon src="https://i.ytimg.com/vi/PLqOXeFTnMY/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="DiputadosTV.yt" start="20240720190000 +0100" stop="20240720220000 +0100">
+    <title lang="en">DIPUTADOS TV  ARGENTINA - en vivo las 24 hs.</title>
+    <desc lang="en">Transmisión en directo las 24 horas del canal de televisión @DTV DIPUTADOS TELEVISIÓN Mantenete informado de todo lo que pasa, la actualidad legislativa, ses...</desc>
+    <icon src="https://i.ytimg.com/vi/PLqOXeFTnMY/maxresdefault_live.jpg"/>
   </programme>
   <channel id="Chillhop.yt">
     <display-name lang="en">Chillhop Music (jazzy &amp; lofi hip hop beats)</display-name>
