@@ -169,8 +169,6 @@ category = ''
 # Open text file and parse stream information and URL
 with open('./streams.txt', encoding='utf-8') as f:
     print("#EXTM3U")
-    print("#EXTINF:-1 tvg-name="Telefe." tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/35.png" group-title="Nacionales" tvg-id="Telefe.ar",Telefe")
-    print("https://telefemultieventos3.akamaized.net/hls/live/2041414/multieventos_3_hls/multieventos_3_hls.m3u8")
     for line in f:
         line = line.strip()
         if not line or line.startswith('##'):
