@@ -1,9 +1,6 @@
 América 24 || America24.yt || Nacionales
 https://www.youtube.com/watch?v=QGpHLgRnrx4
 
-Fores || Fores.yt || Nacionales
-https://www.youtube.com/watch?v=jDhw2U07VEY
-
 C5N || C5N.yt || Nacionales
 https://www.youtube.com/watch?v=NdQSOItOQ5Y
 
@@ -24,6 +21,9 @@ https://www.youtube.com/watch?v=zcWXboTnous
 
 TN Todo Noticias || TN.yt || Nacionales
 https://www.youtube.com/watch?v=cb12KmMMDJA
+
+Telefe || Telefe.ar || Nacionales
+https://telefemultieventos3.akamaized.net/hls/live/2041414/multieventos_3_hls/multieventos_3_hls.m3u8
 
 Canal 10 Mar del Plata || Canal10MardelPlata.yt || Nacionales
 https://www.youtube.com/watch?v=XShg6AjTFPc
