@@ -181,8 +181,6 @@ with open('./streams.txt', encoding='utf-8') as f:
             print(
                 f'\n#EXTINF:-1 tvg-id="{channel_id}" tvg-name="{channel_name}" group-title="{category}", {channel_name}')
         else:
-                print(f'\n#EXTINF:-1 tvg-name="Telefe." tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/35.png" group-title="Nacionales" tvg-id="Telefe.ar",Telefe')
-print('https://telefemultieventos3.akamaized.net/hls/live/2041414/multieventos_3_hls/multieventos_3_hls.m3u8')
             if urlparse(line).netloc == 'www.youtube.com':
                 grab_youtube(line)
             elif urlparse(line).netloc == 'www.dailymotion.com':
