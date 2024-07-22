@@ -187,8 +187,8 @@ with open('./streams.txt', encoding='utf-8') as f:
                 grab_dailymotion(line)
             elif urlparse(line).netloc == 'www.twitch.tv':
                 grab_twitch(line)
-                    print('#EXTINF:-1 tvg-name="Telefe." tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/35.png" group-title="Nacionales" tvg-id="Telefe.ar",Telefe')
-    print('https://telefemultieventos3.akamaized.net/hls/live/2041414/multieventos_3_hls/multieventos_3_hls.m3u8')
+                    print("#EXTINF:-1")
+    print("https://telefemultieventos3.akamaized.net/hls/live/2041414/multieventos_3_hls/multieventos_3_hls.m3u8")
 
 # Time to build an XMLTV file based on stream data
 channel_xml = build_xml_tv(channels)
