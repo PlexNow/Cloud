@@ -169,7 +169,7 @@ category = ''
 # Open text file and parse stream information and URL
 with open('./streams.txt', encoding='utf-8') as f:
     print("#EXTM3U")
-print('https://telefemultieventos3.akamaized.net/hls/live/2041414/multieventos_3_hls/multieventos_3_hls.m3u8')
+print("https://telefemultieventos3.akamaized.net/hls/live/2041414/multieventos_3_hls/multieventos_3_hls.m3u8")
     for line in f:
         line = line.strip()
         if not line or line.startswith('##'):
