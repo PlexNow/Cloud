@@ -13,11 +13,11 @@ https://www.youtube.com/live/avly0uwZzOE
 La Nación||LN.yt||.png||Nacionales
 https://www.youtube.com/live/ocFG3yor--M
 
-TV Pública||TVPublica.yt||.png||Nacionales
-https://www.youtube.com/watch?v=XTp1HTPaTHk
+TV Pública||TVPublica.yt||.png||.png||Nacionales
+https://www.youtube.com/live/-6UT1voDmzk
 
 América TV||AmericaTV.yt.png|||| Nacionales
-https://www.youtube.com/watch?v=zcWXboTnous
+https://www.youtube.com/live/zcWXboTnous
 
 TN Todo Noticias||TN.yt||.png||Nacionales
 https://www.youtube.com/live/cb12KmMMDJA
