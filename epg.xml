@@ -214,6 +214,49 @@
     <desc lang="en">LN+ EN VIVO las 24 horasSuscribite a LA NACION: https://bit.ly/2GU7jVvMirá más contenidos en: https://www.lanacion.com.ar/ln-t58215 Seguinos en:     Facebook...</desc>
     <icon src="https://i.ytimg.com/vi/ocFG3yor--M/maxresdefault_live.jpg"/>
   </programme>
+  <channel id="TVPublica.yt">
+    <display-name lang="en">TV Pública</display-name>
+  </channel>
+  <programme channel="TVPublica.yt" start="20240725040000 +0100" stop="20240725070000 +0100">
+    <title lang="en">EN VIVO | Televisión Pública</title>
+    <desc lang="en">Televisión Pública transmisión en vivo#TelevisiónPública #Ahora #EnVivohttps://tvpublica.com.arhttps://instagram.com/tv_publicahttps://twitter.com/tv_publica...</desc>
+    <icon src="https://i.ytimg.com/vi/-6UT1voDmzk/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="TVPublica.yt" start="20240725070000 +0100" stop="20240725100000 +0100">
+    <title lang="en">EN VIVO | Televisión Pública</title>
+    <desc lang="en">Televisión Pública transmisión en vivo#TelevisiónPública #Ahora #EnVivohttps://tvpublica.com.arhttps://instagram.com/tv_publicahttps://twitter.com/tv_publica...</desc>
+    <icon src="https://i.ytimg.com/vi/-6UT1voDmzk/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="TVPublica.yt" start="20240725100000 +0100" stop="20240725130000 +0100">
+    <title lang="en">EN VIVO | Televisión Pública</title>
+    <desc lang="en">Televisión Pública transmisión en vivo#TelevisiónPública #Ahora #EnVivohttps://tvpublica.com.arhttps://instagram.com/tv_publicahttps://twitter.com/tv_publica...</desc>
+    <icon src="https://i.ytimg.com/vi/-6UT1voDmzk/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="TVPublica.yt" start="20240725130000 +0100" stop="20240725160000 +0100">
+    <title lang="en">EN VIVO | Televisión Pública</title>
+    <desc lang="en">Televisión Pública transmisión en vivo#TelevisiónPública #Ahora #EnVivohttps://tvpublica.com.arhttps://instagram.com/tv_publicahttps://twitter.com/tv_publica...</desc>
+    <icon src="https://i.ytimg.com/vi/-6UT1voDmzk/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="TVPublica.yt" start="20240725160000 +0100" stop="20240725190000 +0100">
+    <title lang="en">EN VIVO | Televisión Pública</title>
+    <desc lang="en">Televisión Pública transmisión en vivo#TelevisiónPública #Ahora #EnVivohttps://tvpublica.com.arhttps://instagram.com/tv_publicahttps://twitter.com/tv_publica...</desc>
+    <icon src="https://i.ytimg.com/vi/-6UT1voDmzk/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="TVPublica.yt" start="20240725190000 +0100" stop="20240725220000 +0100">
+    <title lang="en">EN VIVO | Televisión Pública</title>
+    <desc lang="en">Televisión Pública transmisión en vivo#TelevisiónPública #Ahora #EnVivohttps://tvpublica.com.arhttps://instagram.com/tv_publicahttps://twitter.com/tv_publica...</desc>
+    <icon src="https://i.ytimg.com/vi/-6UT1voDmzk/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="TVPublica.yt" start="20240725220000 +0100" stop="20240726010000 +0100">
+    <title lang="en">EN VIVO | Televisión Pública</title>
+    <desc lang="en">Televisión Pública transmisión en vivo#TelevisiónPública #Ahora #EnVivohttps://tvpublica.com.arhttps://instagram.com/tv_publicahttps://twitter.com/tv_publica...</desc>
+    <icon src="https://i.ytimg.com/vi/-6UT1voDmzk/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="TVPublica.yt" start="20240726010000 +0100" stop="20240726040000 +0100">
+    <title lang="en">EN VIVO | Televisión Pública</title>
+    <desc lang="en">Televisión Pública transmisión en vivo#TelevisiónPública #Ahora #EnVivohttps://tvpublica.com.arhttps://instagram.com/tv_publicahttps://twitter.com/tv_publica...</desc>
+    <icon src="https://i.ytimg.com/vi/-6UT1voDmzk/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="AmericaTV.yt.png">
     <display-name lang="en">América TV</display-name>
   </channel>
