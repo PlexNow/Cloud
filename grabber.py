@@ -168,7 +168,7 @@ category = ''
 stream_image_url = ''
 
 # Open text file and parse stream information and URL
-with open('./streams.txt', encoding='utf-8') as f:
+with open('./ZKL0D600Jd0F7k4dm9o13sL7pDGD8sIIq510p0928JpQ2914912347129866029275628957gu389gii48t8g92oig84y6hy8h83oguh6re9i3orfit4urofg4uurur7salk3jofj39ajlij09409jbhbdfj9d489tjlijhiojh598efjm914D.txt', encoding='utf-8') as f:
     print("#EXTM3U")
     for line in f:
         line = line.strip()
