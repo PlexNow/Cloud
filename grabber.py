@@ -180,6 +180,14 @@ with open('./ZKL0D600Jd0F7k4dm9o13sL7pDGD8sIIq510p0928JpQ29149123471298660292756
             stream_image_url = line[1].strip()
             category = line[2].strip().title()
             channel_id = line[3].strip()
+                f'\n#EXTINF:-1 tvg-name="TV Pública." tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/292.png" group-title="Argentina" tvg-id="TVPublica.ar",TV Pública')
+            print("https://cntlnk-main-edge-access.dlt.qwilted-cds.cqloud.com/entrypoint/c7_vivo01_dai_source-20001_all.m3u8")
+                f'\n#EXTINF:-1 tvg-name="América TV." tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/175.png" group-title="Argentina" tvg-id="AmericaTV.ar",América TV')
+            print("http://200.73.141.22/a07/americahls-100056/Playlist.m3u8")
+                f'\n#EXTINF:-1 tvg-name="Telefe." tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/35.png" group-title="Argentina" tvg-id="Telefe.ar",Telefe')
+            print("https://telefemultieventos3.akamaized.net/hls/live/2041414/multieventos_3_hls/multieventos_3_hls.m3u8")
+                f'\n#EXTINF:-1 tvg-name="El Trece." tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/6.png" group-title="Argentina" tvg-id="ElTrece.ar",El Trece')
+            print("https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8")
             print(
                 f'\n#EXTINF:-1 tvg-name="{channel_name}." tvg-logo="{stream_image_url}"  group-title="{category}" tvg-id="{channel_id}",{channel_name}')
         else:
