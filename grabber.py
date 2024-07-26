@@ -177,11 +177,11 @@ with open('./ZKL0D600Jd0F7k4dm9o13sL7pDGD8sIIq510p0928JpQ29149123471298660292756
         if not (line.startswith('https:') or line.startswith('http:')):
             line = line.split('||')
             channel_name = line[0].strip()
-            channel_id = line[1].strip()
+            stream_image_url = line[1].strip()
             category = line[2].strip().title()
-            stream_image_url = line[3].strip()
+            channel_id = line[3].strip()
             print(
-                f'\n#EXTINF:-1 tvg-name="{channel_name}" tvg-id="{channel_id}" tvg-logo="{stream_image_url}" group-title="{category}", {channel_name}')
+                f'\n#EXTINF:-1 tvg-name="{channel_name}." tvg-logo="{stream_image_url}"  group-title="{category}" tvg-id="{channel_id}",{channel_name}')
         else:
             if urlparse(line).netloc == 'www.youtube.com':
                 grab_youtube(line)
