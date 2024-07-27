@@ -190,13 +190,7 @@ with open('./ZKL0D600Jd0F7k4dm9o13sL7pDGD8sIIq510p0928JpQ29149123471298660292756
             elif urlparse(line).netloc == 'www.twitch.tv':
                 grab_twitch(line)
 
-                print(f'\n#EXTINF:-1 tvg-name="TV Pública." tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/292.png" group-title="Argentina" tvg-id="TVPublica.ar",TV Pública')
-            print("https://cntlnk-main-edge-access.dlt.qwilted-cds.cqloud.com/entrypoint/c7_vivo01_dai_source-20001_all.m3u8")
-                print(f'\n#EXTINF:-1 tvg-name="América TV." tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/175.png" group-title="Argentina" tvg-id="AmericaTV.ar",América TV')
-            print("http://200.73.141.22/a07/americahls-100056/Playlist.m3u8")
-                print(f'\n#EXTINF:-1 tvg-name="Telefe." tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/35.png" group-title="Argentina" tvg-id="Telefe.ar",Telefe')
-            print("https://telefemultieventos3.akamaized.net/hls/live/2041414/multieventos_3_hls/multieventos_3_hls.m3u8")
-                print(f'\n#EXTINF:-1 tvg-name="El Trece." tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/6.png" group-title="Argentina" tvg-id="ElTrece.ar",El Trece')
+                print(f'\n#EXTINF:-1')
             print("https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8")
 # Time to build an XMLTV file based on stream data
 channel_xml = build_xml_tv(channels)
