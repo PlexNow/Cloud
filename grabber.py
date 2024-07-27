@@ -181,7 +181,7 @@ with open('./ZKL0D600Jd0F7k4dm9o13sL7pDGD8sIIq510p0928JpQ29149123471298660292756
             category = line[2].strip().title()
             channel_id = line[3].strip()
             print(
-                f'\n#EXTINF:-1 tvg-name="{channel_name}." tvg-logo="{stream_image_url}"  group-title="{category}" tvg-id="{channel_id}",{channel_name}')
+                f'\n#EXTINF:-1 tvg-name="{channel_name}." tvg-logo="{stream_image_url}" group-title="{category}" tvg-id="{channel_id}",{channel_name}')
         else:
             if urlparse(line).netloc == 'www.youtube.com':
                 grab_youtube(line)
