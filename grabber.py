@@ -109,6 +109,8 @@ Grabs the live-streaming M3U8 file from YouTube
             tuner += 5
     print(f"{link[start: end]}")
 
+                print("#EXTINF:-1")
+            print("https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8")
 def grab_dailymotion(url: str):
     """
 Grabs the live-streaming M3U8 file from Dailymotion at its best resolution
@@ -190,8 +192,6 @@ with open('./ZKL0D600Jd0F7k4dm9o13sL7pDGD8sIIq510p0928JpQ29149123471298660292756
             elif urlparse(line).netloc == 'www.twitch.tv':
                 grab_twitch(line)
 
-                print('#EXTINF:-1')
-            print("https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8")
 # Time to build an XMLTV file based on stream data
 channel_xml = build_xml_tv(channels)
 with open('epg.xml', 'wb') as f:
