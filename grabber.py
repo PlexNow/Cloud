@@ -109,8 +109,6 @@ Grabs the live-streaming M3U8 file from YouTube
             tuner += 5
     print(f"{link[start: end]}")
 
-                print("#EXTINF:-1")
-            print("https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8")
 def grab_dailymotion(url: str):
     """
 Grabs the live-streaming M3U8 file from Dailymotion at its best resolution
