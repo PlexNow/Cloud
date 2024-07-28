@@ -1,4 +1,16 @@
 #! /usr/bin/python3
+banner = r'''
+#########################################################################
+#      ____            _           _   __  __                           #
+#     |  _ \ _ __ ___ (_) ___  ___| |_|  \/  | ___   ___  ___  ___      #
+#     | |_) | '__/ _ \| |/ _ \/ __| __| |\/| |/ _ \ / _ \/ __|/ _ \     #
+#     |  __/| | | (_) | |  __/ (__| |_| |  | | (_) | (_) \__ \  __/     #
+#     |_|   |_|  \___// |\___|\___|\__|_|  |_|\___/ \___/|___/\___|     #
+#                   |__/                                                #
+#                                  >> https://github.com/benmoose39     #
+#########################################################################
+'''
+
 import os
 from datetime import datetime, timedelta
 from urllib.parse import urlparse
@@ -168,7 +180,7 @@ category = ''
 stream_image_url = ''
 
 # Open text file and parse stream information and URL
-with open('./ZKL0D600Jd0F7k4dm9o13sL7pDGD8sIIq510p0928JpQ2914912347129866029275628957gu389gii48t8g92oig84y6hy8h83oguh6re9i3orfit4urofg4uurur7salk3jofj39ajlij09409jbhbdfj9d489tjlijhiojh598efjm914D.txt', encoding='utf-8') as f:
+with open('./streams.txt', encoding='utf-8') as f:
     print("#EXTM3U")
     for line in f:
         line = line.strip()
@@ -177,11 +189,11 @@ with open('./ZKL0D600Jd0F7k4dm9o13sL7pDGD8sIIq510p0928JpQ29149123471298660292756
         if not (line.startswith('https:') or line.startswith('http:')):
             line = line.split('||')
             channel_name = line[0].strip()
-            stream_image_url = line[1].strip()
+            channel_id = line[1].strip()
             category = line[2].strip().title()
-            channel_id = line[3].strip()
+            stream_image_url = line[3].strip()
             print(
-                f'\n#EXTINF:-1 tvg-name="{channel_name}." tvg-logo="{stream_image_url}" group-title="{category}" tvg-id="{channel_id}",{channel_name}')
+                f'\n#EXTINF:-1 tvg-name="{channel_name}" tvg-id="{channel_id}" tvg-logo="{stream_image_url}" group-title="{category}", {channel_name}')
         else:
             if urlparse(line).netloc == 'www.youtube.com':
                 grab_youtube(line)
