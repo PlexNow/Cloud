@@ -1,4 +1,9 @@
 #! /usr/bin/python3
+import os
+from datetime import datetime, timedelta
+from urllib.parse import urlparse
+
+import pytz
 
 banner = r'''
 #########################################################################
@@ -12,11 +17,6 @@ banner = r'''
 #########################################################################
 '''
 
-import os
-from datetime import datetime, timedelta
-from urllib.parse import urlparse
-
-import pytz
 import requests
 from lxml import etree
 from bs4 import BeautifulSoup
