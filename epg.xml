@@ -42,49 +42,6 @@
     <desc lang="en">★QUIERO MÚSICA quiere que te SUSCRIBAS ACÁ: → https://www.youtube.com/quieromusicatvSomos el canal argentino #1 de música en español. Rankings, noticias, ent...</desc>
     <icon src="https://i.ytimg.com/vi/8Mw0YdKN2XY/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="TelefeNoticias.ar">
-    <display-name lang="en">Telefe Noticias</display-name>
-  </channel>
-  <programme channel="TelefeNoticias.ar" start="20240728220000 +0100" stop="20240729010000 +0100">
-    <title lang="en">Telefe Noticias 24hs de información 🌐 EN VIVO</title>
-    <desc lang="en">..▶Suscribite al canal y mirá los mejores videos Telefe Noticias, El Noticiero de la Gente, Buen Telefe, Staff de Noticias y TFN Digital 🡪 https://bit.ly/3h...</desc>
-    <icon src="https://i.ytimg.com/vi/8gs-9lsfVQU/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="TelefeNoticias.ar" start="20240729010000 +0100" stop="20240729040000 +0100">
-    <title lang="en">Telefe Noticias 24hs de información 🌐 EN VIVO</title>
-    <desc lang="en">..▶Suscribite al canal y mirá los mejores videos Telefe Noticias, El Noticiero de la Gente, Buen Telefe, Staff de Noticias y TFN Digital 🡪 https://bit.ly/3h...</desc>
-    <icon src="https://i.ytimg.com/vi/8gs-9lsfVQU/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="TelefeNoticias.ar" start="20240729040000 +0100" stop="20240729070000 +0100">
-    <title lang="en">Telefe Noticias 24hs de información 🌐 EN VIVO</title>
-    <desc lang="en">..▶Suscribite al canal y mirá los mejores videos Telefe Noticias, El Noticiero de la Gente, Buen Telefe, Staff de Noticias y TFN Digital 🡪 https://bit.ly/3h...</desc>
-    <icon src="https://i.ytimg.com/vi/8gs-9lsfVQU/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="TelefeNoticias.ar" start="20240729070000 +0100" stop="20240729100000 +0100">
-    <title lang="en">Telefe Noticias 24hs de información 🌐 EN VIVO</title>
-    <desc lang="en">..▶Suscribite al canal y mirá los mejores videos Telefe Noticias, El Noticiero de la Gente, Buen Telefe, Staff de Noticias y TFN Digital 🡪 https://bit.ly/3h...</desc>
-    <icon src="https://i.ytimg.com/vi/8gs-9lsfVQU/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="TelefeNoticias.ar" start="20240729100000 +0100" stop="20240729130000 +0100">
-    <title lang="en">Telefe Noticias 24hs de información 🌐 EN VIVO</title>
-    <desc lang="en">..▶Suscribite al canal y mirá los mejores videos Telefe Noticias, El Noticiero de la Gente, Buen Telefe, Staff de Noticias y TFN Digital 🡪 https://bit.ly/3h...</desc>
-    <icon src="https://i.ytimg.com/vi/8gs-9lsfVQU/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="TelefeNoticias.ar" start="20240729130000 +0100" stop="20240729160000 +0100">
-    <title lang="en">Telefe Noticias 24hs de información 🌐 EN VIVO</title>
-    <desc lang="en">..▶Suscribite al canal y mirá los mejores videos Telefe Noticias, El Noticiero de la Gente, Buen Telefe, Staff de Noticias y TFN Digital 🡪 https://bit.ly/3h...</desc>
-    <icon src="https://i.ytimg.com/vi/8gs-9lsfVQU/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="TelefeNoticias.ar" start="20240729160000 +0100" stop="20240729190000 +0100">
-    <title lang="en">Telefe Noticias 24hs de información 🌐 EN VIVO</title>
-    <desc lang="en">..▶Suscribite al canal y mirá los mejores videos Telefe Noticias, El Noticiero de la Gente, Buen Telefe, Staff de Noticias y TFN Digital 🡪 https://bit.ly/3h...</desc>
-    <icon src="https://i.ytimg.com/vi/8gs-9lsfVQU/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="TelefeNoticias.ar" start="20240729190000 +0100" stop="20240729220000 +0100">
-    <title lang="en">Telefe Noticias 24hs de información 🌐 EN VIVO</title>
-    <desc lang="en">..▶Suscribite al canal y mirá los mejores videos Telefe Noticias, El Noticiero de la Gente, Buen Telefe, Staff de Noticias y TFN Digital 🡪 https://bit.ly/3h...</desc>
-    <icon src="https://i.ytimg.com/vi/8gs-9lsfVQU/maxresdefault_live.jpg"/>
-  </programme>
   <channel id="CanalRural.ar">
     <display-name lang="en">Canal Rural</display-name>
   </channel>
@@ -256,6 +213,49 @@
     <title lang="en">Emisión en directo de Canal Diez Mar del Plata</title>
     <desc lang="en">No description provided</desc>
     <icon src="https://i.ytimg.com/vi/XShg6AjTFPc/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="TelefeNoticias.ar">
+    <display-name lang="en">Telefe Noticias</display-name>
+  </channel>
+  <programme channel="TelefeNoticias.ar" start="20240728220000 +0100" stop="20240729010000 +0100">
+    <title lang="en">Telefe Noticias 24hs de información 🌐 EN VIVO</title>
+    <desc lang="en">..▶Suscribite al canal y mirá los mejores videos Telefe Noticias, El Noticiero de la Gente, Buen Telefe, Staff de Noticias y TFN Digital 🡪 https://bit.ly/3h...</desc>
+    <icon src="https://i.ytimg.com/vi/8gs-9lsfVQU/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="TelefeNoticias.ar" start="20240729010000 +0100" stop="20240729040000 +0100">
+    <title lang="en">Telefe Noticias 24hs de información 🌐 EN VIVO</title>
+    <desc lang="en">..▶Suscribite al canal y mirá los mejores videos Telefe Noticias, El Noticiero de la Gente, Buen Telefe, Staff de Noticias y TFN Digital 🡪 https://bit.ly/3h...</desc>
+    <icon src="https://i.ytimg.com/vi/8gs-9lsfVQU/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="TelefeNoticias.ar" start="20240729040000 +0100" stop="20240729070000 +0100">
+    <title lang="en">Telefe Noticias 24hs de información 🌐 EN VIVO</title>
+    <desc lang="en">..▶Suscribite al canal y mirá los mejores videos Telefe Noticias, El Noticiero de la Gente, Buen Telefe, Staff de Noticias y TFN Digital 🡪 https://bit.ly/3h...</desc>
+    <icon src="https://i.ytimg.com/vi/8gs-9lsfVQU/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="TelefeNoticias.ar" start="20240729070000 +0100" stop="20240729100000 +0100">
+    <title lang="en">Telefe Noticias 24hs de información 🌐 EN VIVO</title>
+    <desc lang="en">..▶Suscribite al canal y mirá los mejores videos Telefe Noticias, El Noticiero de la Gente, Buen Telefe, Staff de Noticias y TFN Digital 🡪 https://bit.ly/3h...</desc>
+    <icon src="https://i.ytimg.com/vi/8gs-9lsfVQU/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="TelefeNoticias.ar" start="20240729100000 +0100" stop="20240729130000 +0100">
+    <title lang="en">Telefe Noticias 24hs de información 🌐 EN VIVO</title>
+    <desc lang="en">..▶Suscribite al canal y mirá los mejores videos Telefe Noticias, El Noticiero de la Gente, Buen Telefe, Staff de Noticias y TFN Digital 🡪 https://bit.ly/3h...</desc>
+    <icon src="https://i.ytimg.com/vi/8gs-9lsfVQU/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="TelefeNoticias.ar" start="20240729130000 +0100" stop="20240729160000 +0100">
+    <title lang="en">Telefe Noticias 24hs de información 🌐 EN VIVO</title>
+    <desc lang="en">..▶Suscribite al canal y mirá los mejores videos Telefe Noticias, El Noticiero de la Gente, Buen Telefe, Staff de Noticias y TFN Digital 🡪 https://bit.ly/3h...</desc>
+    <icon src="https://i.ytimg.com/vi/8gs-9lsfVQU/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="TelefeNoticias.ar" start="20240729160000 +0100" stop="20240729190000 +0100">
+    <title lang="en">Telefe Noticias 24hs de información 🌐 EN VIVO</title>
+    <desc lang="en">..▶Suscribite al canal y mirá los mejores videos Telefe Noticias, El Noticiero de la Gente, Buen Telefe, Staff de Noticias y TFN Digital 🡪 https://bit.ly/3h...</desc>
+    <icon src="https://i.ytimg.com/vi/8gs-9lsfVQU/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="TelefeNoticias.ar" start="20240729190000 +0100" stop="20240729220000 +0100">
+    <title lang="en">Telefe Noticias 24hs de información 🌐 EN VIVO</title>
+    <desc lang="en">..▶Suscribite al canal y mirá los mejores videos Telefe Noticias, El Noticiero de la Gente, Buen Telefe, Staff de Noticias y TFN Digital 🡪 https://bit.ly/3h...</desc>
+    <icon src="https://i.ytimg.com/vi/8gs-9lsfVQU/maxresdefault_live.jpg"/>
   </programme>
   <channel id="A24.ar">
     <display-name lang="en">A24</display-name>
