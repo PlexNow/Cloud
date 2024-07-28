@@ -1,5 +1,4 @@
-﻿
-Quiero Música TV||https://www.qmusica.tv/qmusica_logo_1.png||Argentina||QuieroMusicaTV.ar
+﻿Quiero Música TV||https://www.qmusica.tv/qmusica_logo_1.png||Argentina||QuieroMusicaTV.ar
 https://www.youtube.com/live/8Mw0YdKN2XY
 
 Canal Rural||https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/11.png||Argentina||CanalRural.ar
