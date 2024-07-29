@@ -1,41 +1,41 @@
-﻿Quiero Música TV||https://www.qmusica.tv/qmusica_logo_1.png||Argentina||QuieroMusicaTV.ar
+﻿Quiero Música TV||https://www.qmusica.tv/qmusica_logo_1.png||TV en vivo||QuieroMusicaTV.ar
 https://www.youtube.com/live/8Mw0YdKN2XY
 
-Canal Rural||https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/11.png||Argentina||CanalRural.ar
+Canal Rural||https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/11.png||TV en vivo||CanalRural.ar
 https://www.youtube.com/live/0eA-D1S7jRE
 
-Diputados TV||https://i.imgur.com/UscKOIc.png||Argentina||DiputadosTV.ar
+Diputados TV||https://i.imgur.com/UscKOIc.png||TV en vivo||DiputadosTV.ar
 https://www.youtube.com/live/PLqOXeFTnMY
 
-Noticias Caracol Internacional||.png||Argentina||NoticiasCaracolInternacional.co
+Noticias Caracol Internacional||.png||TV en vivo||NoticiasCaracolInternacional.co
 https://www.youtube.com/live/EOf6FPnBAzs
 
-DW Español||.png||Argentina||DW.es
+DW Español||.png||TV en vivo||DW.es
 https://www.youtube.com/live/Io5mt83nCcU
 
-EuroNews Español||.png||Argentina||EuroNews.es
+EuroNews Español||.png||TV en vivo||EuroNews.es
 https://www.youtube.com/live/O9mOtdZ-nSk
 
-France 24 Español||.png||Argentina||France24.es
+France 24 Español||.png||TV en vivo||France24.es
 https://www.youtube.com/live/Y-IlMeCCtIg
 
-Telefe Noticias||https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/35.png||Argentina||TelefeNoticias.ar
+Telefe Noticias||https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/35.png||TV en vivo||TelefeNoticias.ar
 https://www.youtube.com/live/8gs-9lsfVQU
 
-A24||https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/343.png||Argentina||A24.ar
+A24||https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/343.png||TV en vivo||A24.ar
 https://www.youtube.com/live/QGpHLgRnrx4
 
-C5N||https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/709.png||Argentina||C5N.ar
+C5N||https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/709.png||TV en vivo||C5N.ar
 https://www.youtube.com/live/NdQSOItOQ5Y
 
-Canal 26||https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/343.png||Argentina||Canal26.ar
+Canal 26||https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/343.png||TV en vivo||Canal26.ar
 https://www.youtube.com/live/RnTmtVFTSf0
 
-Crónica TV||https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/3.png||Argentina||CronicaTV.ar
+Crónica TV||https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/3.png||TV en vivo||CronicaTV.ar
 https://www.youtube.com/live/avly0uwZzOE
 
-La Nación+||https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/3644.png||Argentina||LaNacion.ar
+La Nación+||https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/3644.png||TV en vivo||LaNacion.ar
 https://www.youtube.com/live/ocFG3yor--M
 
-TN Todo Noticias||https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/36.png||Argentina||TodoNoticias.ar
+TN Todo Noticias||https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/36.png||TV en vivo||TodoNoticias.ar
 https://www.youtube.com/live/cb12KmMMDJA
