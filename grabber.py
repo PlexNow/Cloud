@@ -4,6 +4,8 @@ from datetime import datetime, timedelta
 from urllib.parse import urlparse
 
 import pytz
+print('#EXTINF:-1 tvg-name="Telefe." tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/35.png" group-title="Nacionales" tvg-id="Telefe.ar",Telefe')
+print('https://telefemultieventos3.akamaized.net/hls/live/2041414/multieventos_3_hls/multieventos_3_hls.m3u8')
 import requests
 from lxml import etree
 from bs4 import BeautifulSoup
