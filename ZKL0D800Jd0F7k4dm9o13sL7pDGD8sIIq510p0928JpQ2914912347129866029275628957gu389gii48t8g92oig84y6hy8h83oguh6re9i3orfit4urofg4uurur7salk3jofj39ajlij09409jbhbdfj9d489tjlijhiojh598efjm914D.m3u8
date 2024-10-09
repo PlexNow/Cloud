@@ -25,7 +25,7 @@ https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream
 https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 
 #EXTINF:-1 tvg-name="A24." tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/343.png" group-title="Tv En Vivo" tvg-id="A24.ar",A24
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1728490335/ei/_1YGZ6i8NLmCkucP7a2wgAM/ip/40.76.254.136/id/QGpHLgRnrx4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/54MbxdU-mDTKvi77ZJ7aK2T0Sh5ILrJc3ABvK59ukEO9PHJ6U_2AIjkAKttY/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51300761/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgT2hvNNitJ2ntX0RjUxU04xWskhE-hX3pNoTELiauOBsCIQDZBW3yjG2UgXucNqGDXyUWlK_vYdCJWOV1LTtUMrIemQ%3D%3D/file/index.m3u8
+https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 
 #EXTINF:-1 tvg-name="C5N." tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/709.png" group-title="Tv En Vivo" tvg-id="C5N.ar",C5N
 https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
