@@ -13,7 +13,7 @@ https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream
 https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 
 #EXTINF:-1 tvg-name="DW Español." tvg-logo=".png" group-title="Tv En Vivo" tvg-id="DW.es",DW Español
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1733515876/ei/BAZTZ9fhLZe9sfIP1pHW8Qc/ip/13.83.123.120/id/Io5mt83nCcU.19/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51327527/txs/51327526%2C51327527%2C51327528/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qtApATFZsfvCi0lfXuZ3AMLLEw3nRJxkJNC1r2Djdm8Gs9vtkvg9UXXCLVcsos4/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51347747%2C51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgf9yE4AY3qQ0DWsIKcyNgj2taXN2GahheFa6UBwmowmoCIQDQAAX95AlfNiKsAcIvCeaB9inr2neZwU7WLn7ZFSrI6w%3D%3D/file/index.m3u8
+https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 
 #EXTINF:-1 tvg-name="EuroNews Español." tvg-logo=".png" group-title="Tv En Vivo" tvg-id="EuroNews.es",EuroNews Español
 https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
