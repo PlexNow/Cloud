@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-name="﻿Quiero Música TV." tvg-logo="https://www.qmusica.tv/qmusica_logo_1.png" group-title="Tv En Vivo" tvg-id="QuieroMusicaTV.ar",﻿Quiero Música TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1742616670/ei/_uPdZ45UxKSKvg-Cz-zACA/ip/172.214.173.185/id/8Mw0YdKN2XY.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AccgBcMFDScUrA4vc8qkct5MYyRPL-ZK27HSJARWO9Ru0fm1QXb2qW0Srb7zmVN8L0Ec893UvanrE17t/spc/_S3wKhnO03f_oRlk30qQcyLcczcTCN9ceIeSOwg1BljJDZRMjB7h-l10XtRoJQk/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJvEBqFuJ3Tsxb_mCzWyikUuuGuXzu93wgh9MCwHct8VAiBRAXNIIiKByvPWQK2idGbUNdquo6L8JmPrHqd9mVK5pA%3D%3D/file/index.m3u8
+https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 
 #EXTINF:-1 tvg-name="Canal Rural." tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/11.png" group-title="Tv En Vivo" tvg-id="CanalRural.ar",Canal Rural
 https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
