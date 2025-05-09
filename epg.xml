@@ -1,86 +1,43 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="QuieroMusicaTV.ar">
-    <display-name lang="en">﻿Quiero Música TV</display-name>
-  </channel>
-  <programme channel="QuieroMusicaTV.ar" start="20250509190000 +0100" stop="20250509220000 +0100">
-    <title lang="en">MIRÁ EN VIVO QUIERO MÚSICA EN MI IDIOMA 🎵🎼 ¡No te pierdas todo lo que preparamos para vos! 🎶🔊</title>
-    <desc lang="en">★QUIERO MÚSICA quiere que te SUSCRIBAS ACÁ: → https://www.youtube.com/quieromusicatvSomos el canal argentino #1 de música en español. Rankings, noticias, ent...</desc>
-    <icon src="https://i.ytimg.com/vi/8Mw0YdKN2XY/maxresdefault.jpg?v=675ca0a1"/>
-  </programme>
-  <programme channel="QuieroMusicaTV.ar" start="20250509220000 +0100" stop="20250510010000 +0100">
-    <title lang="en">MIRÁ EN VIVO QUIERO MÚSICA EN MI IDIOMA 🎵🎼 ¡No te pierdas todo lo que preparamos para vos! 🎶🔊</title>
-    <desc lang="en">★QUIERO MÚSICA quiere que te SUSCRIBAS ACÁ: → https://www.youtube.com/quieromusicatvSomos el canal argentino #1 de música en español. Rankings, noticias, ent...</desc>
-    <icon src="https://i.ytimg.com/vi/8Mw0YdKN2XY/maxresdefault.jpg?v=675ca0a1"/>
-  </programme>
-  <programme channel="QuieroMusicaTV.ar" start="20250510010000 +0100" stop="20250510040000 +0100">
-    <title lang="en">MIRÁ EN VIVO QUIERO MÚSICA EN MI IDIOMA 🎵🎼 ¡No te pierdas todo lo que preparamos para vos! 🎶🔊</title>
-    <desc lang="en">★QUIERO MÚSICA quiere que te SUSCRIBAS ACÁ: → https://www.youtube.com/quieromusicatvSomos el canal argentino #1 de música en español. Rankings, noticias, ent...</desc>
-    <icon src="https://i.ytimg.com/vi/8Mw0YdKN2XY/maxresdefault.jpg?v=675ca0a1"/>
-  </programme>
-  <programme channel="QuieroMusicaTV.ar" start="20250510040000 +0100" stop="20250510070000 +0100">
-    <title lang="en">MIRÁ EN VIVO QUIERO MÚSICA EN MI IDIOMA 🎵🎼 ¡No te pierdas todo lo que preparamos para vos! 🎶🔊</title>
-    <desc lang="en">★QUIERO MÚSICA quiere que te SUSCRIBAS ACÁ: → https://www.youtube.com/quieromusicatvSomos el canal argentino #1 de música en español. Rankings, noticias, ent...</desc>
-    <icon src="https://i.ytimg.com/vi/8Mw0YdKN2XY/maxresdefault.jpg?v=675ca0a1"/>
-  </programme>
-  <programme channel="QuieroMusicaTV.ar" start="20250510070000 +0100" stop="20250510100000 +0100">
-    <title lang="en">MIRÁ EN VIVO QUIERO MÚSICA EN MI IDIOMA 🎵🎼 ¡No te pierdas todo lo que preparamos para vos! 🎶🔊</title>
-    <desc lang="en">★QUIERO MÚSICA quiere que te SUSCRIBAS ACÁ: → https://www.youtube.com/quieromusicatvSomos el canal argentino #1 de música en español. Rankings, noticias, ent...</desc>
-    <icon src="https://i.ytimg.com/vi/8Mw0YdKN2XY/maxresdefault.jpg?v=675ca0a1"/>
-  </programme>
-  <programme channel="QuieroMusicaTV.ar" start="20250510100000 +0100" stop="20250510130000 +0100">
-    <title lang="en">MIRÁ EN VIVO QUIERO MÚSICA EN MI IDIOMA 🎵🎼 ¡No te pierdas todo lo que preparamos para vos! 🎶🔊</title>
-    <desc lang="en">★QUIERO MÚSICA quiere que te SUSCRIBAS ACÁ: → https://www.youtube.com/quieromusicatvSomos el canal argentino #1 de música en español. Rankings, noticias, ent...</desc>
-    <icon src="https://i.ytimg.com/vi/8Mw0YdKN2XY/maxresdefault.jpg?v=675ca0a1"/>
-  </programme>
-  <programme channel="QuieroMusicaTV.ar" start="20250510130000 +0100" stop="20250510160000 +0100">
-    <title lang="en">MIRÁ EN VIVO QUIERO MÚSICA EN MI IDIOMA 🎵🎼 ¡No te pierdas todo lo que preparamos para vos! 🎶🔊</title>
-    <desc lang="en">★QUIERO MÚSICA quiere que te SUSCRIBAS ACÁ: → https://www.youtube.com/quieromusicatvSomos el canal argentino #1 de música en español. Rankings, noticias, ent...</desc>
-    <icon src="https://i.ytimg.com/vi/8Mw0YdKN2XY/maxresdefault.jpg?v=675ca0a1"/>
-  </programme>
-  <programme channel="QuieroMusicaTV.ar" start="20250510160000 +0100" stop="20250510190000 +0100">
-    <title lang="en">MIRÁ EN VIVO QUIERO MÚSICA EN MI IDIOMA 🎵🎼 ¡No te pierdas todo lo que preparamos para vos! 🎶🔊</title>
-    <desc lang="en">★QUIERO MÚSICA quiere que te SUSCRIBAS ACÁ: → https://www.youtube.com/quieromusicatvSomos el canal argentino #1 de música en español. Rankings, noticias, ent...</desc>
-    <icon src="https://i.ytimg.com/vi/8Mw0YdKN2XY/maxresdefault.jpg?v=675ca0a1"/>
-  </programme>
   <channel id="EuroNews.es">
     <display-name lang="en">EuroNews Español</display-name>
   </channel>
-  <programme channel="EuroNews.es" start="20250509190000 +0100" stop="20250509220000 +0100">
+  <programme channel="EuroNews.es" start="20250509200000 +0100" stop="20250509230000 +0100">
     <title lang="en">euronews en directo</title>
     <desc lang="en">EN DIRECTO/EN VIVO Euronews en español: noticias de Europa y del mundo. Saludos desde la redacción en español de Euronews.▶︎ Mira Euronews en vivo en diferen...</desc>
     <icon src="https://i.ytimg.com/vi/O9mOtdZ-nSk/maxresdefault.jpg?v=641883d2"/>
   </programme>
-  <programme channel="EuroNews.es" start="20250509220000 +0100" stop="20250510010000 +0100">
+  <programme channel="EuroNews.es" start="20250509230000 +0100" stop="20250510020000 +0100">
     <title lang="en">euronews en directo</title>
     <desc lang="en">EN DIRECTO/EN VIVO Euronews en español: noticias de Europa y del mundo. Saludos desde la redacción en español de Euronews.▶︎ Mira Euronews en vivo en diferen...</desc>
     <icon src="https://i.ytimg.com/vi/O9mOtdZ-nSk/maxresdefault.jpg?v=641883d2"/>
   </programme>
-  <programme channel="EuroNews.es" start="20250510010000 +0100" stop="20250510040000 +0100">
+  <programme channel="EuroNews.es" start="20250510020000 +0100" stop="20250510050000 +0100">
     <title lang="en">euronews en directo</title>
     <desc lang="en">EN DIRECTO/EN VIVO Euronews en español: noticias de Europa y del mundo. Saludos desde la redacción en español de Euronews.▶︎ Mira Euronews en vivo en diferen...</desc>
     <icon src="https://i.ytimg.com/vi/O9mOtdZ-nSk/maxresdefault.jpg?v=641883d2"/>
   </programme>
-  <programme channel="EuroNews.es" start="20250510040000 +0100" stop="20250510070000 +0100">
+  <programme channel="EuroNews.es" start="20250510050000 +0100" stop="20250510080000 +0100">
     <title lang="en">euronews en directo</title>
     <desc lang="en">EN DIRECTO/EN VIVO Euronews en español: noticias de Europa y del mundo. Saludos desde la redacción en español de Euronews.▶︎ Mira Euronews en vivo en diferen...</desc>
     <icon src="https://i.ytimg.com/vi/O9mOtdZ-nSk/maxresdefault.jpg?v=641883d2"/>
   </programme>
-  <programme channel="EuroNews.es" start="20250510070000 +0100" stop="20250510100000 +0100">
+  <programme channel="EuroNews.es" start="20250510080000 +0100" stop="20250510110000 +0100">
     <title lang="en">euronews en directo</title>
     <desc lang="en">EN DIRECTO/EN VIVO Euronews en español: noticias de Europa y del mundo. Saludos desde la redacción en español de Euronews.▶︎ Mira Euronews en vivo en diferen...</desc>
     <icon src="https://i.ytimg.com/vi/O9mOtdZ-nSk/maxresdefault.jpg?v=641883d2"/>
   </programme>
-  <programme channel="EuroNews.es" start="20250510100000 +0100" stop="20250510130000 +0100">
+  <programme channel="EuroNews.es" start="20250510110000 +0100" stop="20250510140000 +0100">
     <title lang="en">euronews en directo</title>
     <desc lang="en">EN DIRECTO/EN VIVO Euronews en español: noticias de Europa y del mundo. Saludos desde la redacción en español de Euronews.▶︎ Mira Euronews en vivo en diferen...</desc>
     <icon src="https://i.ytimg.com/vi/O9mOtdZ-nSk/maxresdefault.jpg?v=641883d2"/>
   </programme>
-  <programme channel="EuroNews.es" start="20250510130000 +0100" stop="20250510160000 +0100">
+  <programme channel="EuroNews.es" start="20250510140000 +0100" stop="20250510170000 +0100">
     <title lang="en">euronews en directo</title>
     <desc lang="en">EN DIRECTO/EN VIVO Euronews en español: noticias de Europa y del mundo. Saludos desde la redacción en español de Euronews.▶︎ Mira Euronews en vivo en diferen...</desc>
     <icon src="https://i.ytimg.com/vi/O9mOtdZ-nSk/maxresdefault.jpg?v=641883d2"/>
   </programme>
-  <programme channel="EuroNews.es" start="20250510160000 +0100" stop="20250510190000 +0100">
+  <programme channel="EuroNews.es" start="20250510170000 +0100" stop="20250510200000 +0100">
     <title lang="en">euronews en directo</title>
     <desc lang="en">EN DIRECTO/EN VIVO Euronews en español: noticias de Europa y del mundo. Saludos desde la redacción en español de Euronews.▶︎ Mira Euronews en vivo en diferen...</desc>
     <icon src="https://i.ytimg.com/vi/O9mOtdZ-nSk/maxresdefault.jpg?v=641883d2"/>
@@ -88,42 +45,42 @@
   <channel id="France24.es">
     <display-name lang="en">France 24 Español</display-name>
   </channel>
-  <programme channel="France24.es" start="20250509190000 +0100" stop="20250509220000 +0100">
+  <programme channel="France24.es" start="20250509200000 +0100" stop="20250509230000 +0100">
     <title lang="en">FRANCE 24 Español – EN VIVO – Información internacional y noticias del mundo 24 horas</title>
     <desc lang="en">🔴 Vea France 24 en VIVO gratuitamente: toda la actualidad internacional 24h/24.⌚ France 24 ya está disponible en español las 24 horas del día! 🔔 Suscriba a...</desc>
     <icon src="https://i.ytimg.com/vi/Y-IlMeCCtIg/maxresdefault.jpg?v=66a3edf8"/>
   </programme>
-  <programme channel="France24.es" start="20250509220000 +0100" stop="20250510010000 +0100">
+  <programme channel="France24.es" start="20250509230000 +0100" stop="20250510020000 +0100">
     <title lang="en">FRANCE 24 Español – EN VIVO – Información internacional y noticias del mundo 24 horas</title>
     <desc lang="en">🔴 Vea France 24 en VIVO gratuitamente: toda la actualidad internacional 24h/24.⌚ France 24 ya está disponible en español las 24 horas del día! 🔔 Suscriba a...</desc>
     <icon src="https://i.ytimg.com/vi/Y-IlMeCCtIg/maxresdefault.jpg?v=66a3edf8"/>
   </programme>
-  <programme channel="France24.es" start="20250510010000 +0100" stop="20250510040000 +0100">
+  <programme channel="France24.es" start="20250510020000 +0100" stop="20250510050000 +0100">
     <title lang="en">FRANCE 24 Español – EN VIVO – Información internacional y noticias del mundo 24 horas</title>
     <desc lang="en">🔴 Vea France 24 en VIVO gratuitamente: toda la actualidad internacional 24h/24.⌚ France 24 ya está disponible en español las 24 horas del día! 🔔 Suscriba a...</desc>
     <icon src="https://i.ytimg.com/vi/Y-IlMeCCtIg/maxresdefault.jpg?v=66a3edf8"/>
   </programme>
-  <programme channel="France24.es" start="20250510040000 +0100" stop="20250510070000 +0100">
+  <programme channel="France24.es" start="20250510050000 +0100" stop="20250510080000 +0100">
     <title lang="en">FRANCE 24 Español – EN VIVO – Información internacional y noticias del mundo 24 horas</title>
     <desc lang="en">🔴 Vea France 24 en VIVO gratuitamente: toda la actualidad internacional 24h/24.⌚ France 24 ya está disponible en español las 24 horas del día! 🔔 Suscriba a...</desc>
     <icon src="https://i.ytimg.com/vi/Y-IlMeCCtIg/maxresdefault.jpg?v=66a3edf8"/>
   </programme>
-  <programme channel="France24.es" start="20250510070000 +0100" stop="20250510100000 +0100">
+  <programme channel="France24.es" start="20250510080000 +0100" stop="20250510110000 +0100">
     <title lang="en">FRANCE 24 Español – EN VIVO – Información internacional y noticias del mundo 24 horas</title>
     <desc lang="en">🔴 Vea France 24 en VIVO gratuitamente: toda la actualidad internacional 24h/24.⌚ France 24 ya está disponible en español las 24 horas del día! 🔔 Suscriba a...</desc>
     <icon src="https://i.ytimg.com/vi/Y-IlMeCCtIg/maxresdefault.jpg?v=66a3edf8"/>
   </programme>
-  <programme channel="France24.es" start="20250510100000 +0100" stop="20250510130000 +0100">
+  <programme channel="France24.es" start="20250510110000 +0100" stop="20250510140000 +0100">
     <title lang="en">FRANCE 24 Español – EN VIVO – Información internacional y noticias del mundo 24 horas</title>
     <desc lang="en">🔴 Vea France 24 en VIVO gratuitamente: toda la actualidad internacional 24h/24.⌚ France 24 ya está disponible en español las 24 horas del día! 🔔 Suscriba a...</desc>
     <icon src="https://i.ytimg.com/vi/Y-IlMeCCtIg/maxresdefault.jpg?v=66a3edf8"/>
   </programme>
-  <programme channel="France24.es" start="20250510130000 +0100" stop="20250510160000 +0100">
+  <programme channel="France24.es" start="20250510140000 +0100" stop="20250510170000 +0100">
     <title lang="en">FRANCE 24 Español – EN VIVO – Información internacional y noticias del mundo 24 horas</title>
     <desc lang="en">🔴 Vea France 24 en VIVO gratuitamente: toda la actualidad internacional 24h/24.⌚ France 24 ya está disponible en español las 24 horas del día! 🔔 Suscriba a...</desc>
     <icon src="https://i.ytimg.com/vi/Y-IlMeCCtIg/maxresdefault.jpg?v=66a3edf8"/>
   </programme>
-  <programme channel="France24.es" start="20250510160000 +0100" stop="20250510190000 +0100">
+  <programme channel="France24.es" start="20250510170000 +0100" stop="20250510200000 +0100">
     <title lang="en">FRANCE 24 Español – EN VIVO – Información internacional y noticias del mundo 24 horas</title>
     <desc lang="en">🔴 Vea France 24 en VIVO gratuitamente: toda la actualidad internacional 24h/24.⌚ France 24 ya está disponible en español las 24 horas del día! 🔔 Suscriba a...</desc>
     <icon src="https://i.ytimg.com/vi/Y-IlMeCCtIg/maxresdefault.jpg?v=66a3edf8"/>
@@ -131,130 +88,44 @@
   <channel id="A24.ar">
     <display-name lang="en">A24</display-name>
   </channel>
-  <programme channel="A24.ar" start="20250509190000 +0100" stop="20250509220000 +0100">
+  <programme channel="A24.ar" start="20250509200000 +0100" stop="20250509230000 +0100">
     <title lang="en">PAPA LEÓN XIV: QUIÉN ES ROBERT PREVOST 🟥 A24 EN VIVO</title>
     <desc lang="en">📺  A24 EN VIVO Informate en #A24 🟥🟥🟥📲 ¡Suscribite a nuestro canal! → youtube.com/A24com🖥 Encontrá más noticias en nuestra web → www.A24.com👍 ¡No te ol...</desc>
     <icon src="https://i.ytimg.com/vi/QGpHLgRnrx4/maxresdefault.jpg?v=67a9705f"/>
   </programme>
-  <programme channel="A24.ar" start="20250509220000 +0100" stop="20250510010000 +0100">
+  <programme channel="A24.ar" start="20250509230000 +0100" stop="20250510020000 +0100">
     <title lang="en">PAPA LEÓN XIV: QUIÉN ES ROBERT PREVOST 🟥 A24 EN VIVO</title>
     <desc lang="en">📺  A24 EN VIVO Informate en #A24 🟥🟥🟥📲 ¡Suscribite a nuestro canal! → youtube.com/A24com🖥 Encontrá más noticias en nuestra web → www.A24.com👍 ¡No te ol...</desc>
     <icon src="https://i.ytimg.com/vi/QGpHLgRnrx4/maxresdefault.jpg?v=67a9705f"/>
   </programme>
-  <programme channel="A24.ar" start="20250510010000 +0100" stop="20250510040000 +0100">
+  <programme channel="A24.ar" start="20250510020000 +0100" stop="20250510050000 +0100">
     <title lang="en">PAPA LEÓN XIV: QUIÉN ES ROBERT PREVOST 🟥 A24 EN VIVO</title>
     <desc lang="en">📺  A24 EN VIVO Informate en #A24 🟥🟥🟥📲 ¡Suscribite a nuestro canal! → youtube.com/A24com🖥 Encontrá más noticias en nuestra web → www.A24.com👍 ¡No te ol...</desc>
     <icon src="https://i.ytimg.com/vi/QGpHLgRnrx4/maxresdefault.jpg?v=67a9705f"/>
   </programme>
-  <programme channel="A24.ar" start="20250510040000 +0100" stop="20250510070000 +0100">
+  <programme channel="A24.ar" start="20250510050000 +0100" stop="20250510080000 +0100">
     <title lang="en">PAPA LEÓN XIV: QUIÉN ES ROBERT PREVOST 🟥 A24 EN VIVO</title>
     <desc lang="en">📺  A24 EN VIVO Informate en #A24 🟥🟥🟥📲 ¡Suscribite a nuestro canal! → youtube.com/A24com🖥 Encontrá más noticias en nuestra web → www.A24.com👍 ¡No te ol...</desc>
     <icon src="https://i.ytimg.com/vi/QGpHLgRnrx4/maxresdefault.jpg?v=67a9705f"/>
   </programme>
-  <programme channel="A24.ar" start="20250510070000 +0100" stop="20250510100000 +0100">
+  <programme channel="A24.ar" start="20250510080000 +0100" stop="20250510110000 +0100">
     <title lang="en">PAPA LEÓN XIV: QUIÉN ES ROBERT PREVOST 🟥 A24 EN VIVO</title>
     <desc lang="en">📺  A24 EN VIVO Informate en #A24 🟥🟥🟥📲 ¡Suscribite a nuestro canal! → youtube.com/A24com🖥 Encontrá más noticias en nuestra web → www.A24.com👍 ¡No te ol...</desc>
     <icon src="https://i.ytimg.com/vi/QGpHLgRnrx4/maxresdefault.jpg?v=67a9705f"/>
   </programme>
-  <programme channel="A24.ar" start="20250510100000 +0100" stop="20250510130000 +0100">
+  <programme channel="A24.ar" start="20250510110000 +0100" stop="20250510140000 +0100">
     <title lang="en">PAPA LEÓN XIV: QUIÉN ES ROBERT PREVOST 🟥 A24 EN VIVO</title>
     <desc lang="en">📺  A24 EN VIVO Informate en #A24 🟥🟥🟥📲 ¡Suscribite a nuestro canal! → youtube.com/A24com🖥 Encontrá más noticias en nuestra web → www.A24.com👍 ¡No te ol...</desc>
     <icon src="https://i.ytimg.com/vi/QGpHLgRnrx4/maxresdefault.jpg?v=67a9705f"/>
   </programme>
-  <programme channel="A24.ar" start="20250510130000 +0100" stop="20250510160000 +0100">
+  <programme channel="A24.ar" start="20250510140000 +0100" stop="20250510170000 +0100">
     <title lang="en">PAPA LEÓN XIV: QUIÉN ES ROBERT PREVOST 🟥 A24 EN VIVO</title>
     <desc lang="en">📺  A24 EN VIVO Informate en #A24 🟥🟥🟥📲 ¡Suscribite a nuestro canal! → youtube.com/A24com🖥 Encontrá más noticias en nuestra web → www.A24.com👍 ¡No te ol...</desc>
     <icon src="https://i.ytimg.com/vi/QGpHLgRnrx4/maxresdefault.jpg?v=67a9705f"/>
   </programme>
-  <programme channel="A24.ar" start="20250510160000 +0100" stop="20250510190000 +0100">
+  <programme channel="A24.ar" start="20250510170000 +0100" stop="20250510200000 +0100">
     <title lang="en">PAPA LEÓN XIV: QUIÉN ES ROBERT PREVOST 🟥 A24 EN VIVO</title>
     <desc lang="en">📺  A24 EN VIVO Informate en #A24 🟥🟥🟥📲 ¡Suscribite a nuestro canal! → youtube.com/A24com🖥 Encontrá más noticias en nuestra web → www.A24.com👍 ¡No te ol...</desc>
     <icon src="https://i.ytimg.com/vi/QGpHLgRnrx4/maxresdefault.jpg?v=67a9705f"/>
-  </programme>
-  <channel id="CronicaTV.ar">
-    <display-name lang="en">Crónica TV</display-name>
-  </channel>
-  <programme channel="CronicaTV.ar" start="20250509190000 +0100" stop="20250509220000 +0100">
-    <title lang="en">CRÓNICA EN VIVO LAS 24 HORAS</title>
-    <desc lang="en">Suscribite al canal líder de noticias de la Argentina, creador de un estilo informativo único con sus placas rojas #Crónica #CrónicaEnVIVO #Argentina #Notici...</desc>
-    <icon src="https://i.ytimg.com/vi/avly0uwZzOE/maxresdefault.jpg?v=65a8021d"/>
-  </programme>
-  <programme channel="CronicaTV.ar" start="20250509220000 +0100" stop="20250510010000 +0100">
-    <title lang="en">CRÓNICA EN VIVO LAS 24 HORAS</title>
-    <desc lang="en">Suscribite al canal líder de noticias de la Argentina, creador de un estilo informativo único con sus placas rojas #Crónica #CrónicaEnVIVO #Argentina #Notici...</desc>
-    <icon src="https://i.ytimg.com/vi/avly0uwZzOE/maxresdefault.jpg?v=65a8021d"/>
-  </programme>
-  <programme channel="CronicaTV.ar" start="20250510010000 +0100" stop="20250510040000 +0100">
-    <title lang="en">CRÓNICA EN VIVO LAS 24 HORAS</title>
-    <desc lang="en">Suscribite al canal líder de noticias de la Argentina, creador de un estilo informativo único con sus placas rojas #Crónica #CrónicaEnVIVO #Argentina #Notici...</desc>
-    <icon src="https://i.ytimg.com/vi/avly0uwZzOE/maxresdefault.jpg?v=65a8021d"/>
-  </programme>
-  <programme channel="CronicaTV.ar" start="20250510040000 +0100" stop="20250510070000 +0100">
-    <title lang="en">CRÓNICA EN VIVO LAS 24 HORAS</title>
-    <desc lang="en">Suscribite al canal líder de noticias de la Argentina, creador de un estilo informativo único con sus placas rojas #Crónica #CrónicaEnVIVO #Argentina #Notici...</desc>
-    <icon src="https://i.ytimg.com/vi/avly0uwZzOE/maxresdefault.jpg?v=65a8021d"/>
-  </programme>
-  <programme channel="CronicaTV.ar" start="20250510070000 +0100" stop="20250510100000 +0100">
-    <title lang="en">CRÓNICA EN VIVO LAS 24 HORAS</title>
-    <desc lang="en">Suscribite al canal líder de noticias de la Argentina, creador de un estilo informativo único con sus placas rojas #Crónica #CrónicaEnVIVO #Argentina #Notici...</desc>
-    <icon src="https://i.ytimg.com/vi/avly0uwZzOE/maxresdefault.jpg?v=65a8021d"/>
-  </programme>
-  <programme channel="CronicaTV.ar" start="20250510100000 +0100" stop="20250510130000 +0100">
-    <title lang="en">CRÓNICA EN VIVO LAS 24 HORAS</title>
-    <desc lang="en">Suscribite al canal líder de noticias de la Argentina, creador de un estilo informativo único con sus placas rojas #Crónica #CrónicaEnVIVO #Argentina #Notici...</desc>
-    <icon src="https://i.ytimg.com/vi/avly0uwZzOE/maxresdefault.jpg?v=65a8021d"/>
-  </programme>
-  <programme channel="CronicaTV.ar" start="20250510130000 +0100" stop="20250510160000 +0100">
-    <title lang="en">CRÓNICA EN VIVO LAS 24 HORAS</title>
-    <desc lang="en">Suscribite al canal líder de noticias de la Argentina, creador de un estilo informativo único con sus placas rojas #Crónica #CrónicaEnVIVO #Argentina #Notici...</desc>
-    <icon src="https://i.ytimg.com/vi/avly0uwZzOE/maxresdefault.jpg?v=65a8021d"/>
-  </programme>
-  <programme channel="CronicaTV.ar" start="20250510160000 +0100" stop="20250510190000 +0100">
-    <title lang="en">CRÓNICA EN VIVO LAS 24 HORAS</title>
-    <desc lang="en">Suscribite al canal líder de noticias de la Argentina, creador de un estilo informativo único con sus placas rojas #Crónica #CrónicaEnVIVO #Argentina #Notici...</desc>
-    <icon src="https://i.ytimg.com/vi/avly0uwZzOE/maxresdefault.jpg?v=65a8021d"/>
-  </programme>
-  <channel id="TodoNoticias.ar">
-    <display-name lang="en">TN Todo Noticias</display-name>
-  </channel>
-  <programme channel="TodoNoticias.ar" start="20250509190000 +0100" stop="20250509220000 +0100">
-    <title lang="en">TN EN VIVO - SEGUÍ LA TRANSMISIÓN EN VIVO DE TODO NOTICIAS</title>
-    <desc lang="en">SEGUÍ LA TRANSMISIÓN EN VIVO DE TODO NOTICIASMirá la programación de Todo Noticias durante las 24hs del día en la Argentina y en el mundo. ★ Suscribite a nue...</desc>
-    <icon src="https://i.ytimg.com/vi/cb12KmMMDJA/maxresdefault.jpg?v=6519cc7c"/>
-  </programme>
-  <programme channel="TodoNoticias.ar" start="20250509220000 +0100" stop="20250510010000 +0100">
-    <title lang="en">TN EN VIVO - SEGUÍ LA TRANSMISIÓN EN VIVO DE TODO NOTICIAS</title>
-    <desc lang="en">SEGUÍ LA TRANSMISIÓN EN VIVO DE TODO NOTICIASMirá la programación de Todo Noticias durante las 24hs del día en la Argentina y en el mundo. ★ Suscribite a nue...</desc>
-    <icon src="https://i.ytimg.com/vi/cb12KmMMDJA/maxresdefault.jpg?v=6519cc7c"/>
-  </programme>
-  <programme channel="TodoNoticias.ar" start="20250510010000 +0100" stop="20250510040000 +0100">
-    <title lang="en">TN EN VIVO - SEGUÍ LA TRANSMISIÓN EN VIVO DE TODO NOTICIAS</title>
-    <desc lang="en">SEGUÍ LA TRANSMISIÓN EN VIVO DE TODO NOTICIASMirá la programación de Todo Noticias durante las 24hs del día en la Argentina y en el mundo. ★ Suscribite a nue...</desc>
-    <icon src="https://i.ytimg.com/vi/cb12KmMMDJA/maxresdefault.jpg?v=6519cc7c"/>
-  </programme>
-  <programme channel="TodoNoticias.ar" start="20250510040000 +0100" stop="20250510070000 +0100">
-    <title lang="en">TN EN VIVO - SEGUÍ LA TRANSMISIÓN EN VIVO DE TODO NOTICIAS</title>
-    <desc lang="en">SEGUÍ LA TRANSMISIÓN EN VIVO DE TODO NOTICIASMirá la programación de Todo Noticias durante las 24hs del día en la Argentina y en el mundo. ★ Suscribite a nue...</desc>
-    <icon src="https://i.ytimg.com/vi/cb12KmMMDJA/maxresdefault.jpg?v=6519cc7c"/>
-  </programme>
-  <programme channel="TodoNoticias.ar" start="20250510070000 +0100" stop="20250510100000 +0100">
-    <title lang="en">TN EN VIVO - SEGUÍ LA TRANSMISIÓN EN VIVO DE TODO NOTICIAS</title>
-    <desc lang="en">SEGUÍ LA TRANSMISIÓN EN VIVO DE TODO NOTICIASMirá la programación de Todo Noticias durante las 24hs del día en la Argentina y en el mundo. ★ Suscribite a nue...</desc>
-    <icon src="https://i.ytimg.com/vi/cb12KmMMDJA/maxresdefault.jpg?v=6519cc7c"/>
-  </programme>
-  <programme channel="TodoNoticias.ar" start="20250510100000 +0100" stop="20250510130000 +0100">
-    <title lang="en">TN EN VIVO - SEGUÍ LA TRANSMISIÓN EN VIVO DE TODO NOTICIAS</title>
-    <desc lang="en">SEGUÍ LA TRANSMISIÓN EN VIVO DE TODO NOTICIASMirá la programación de Todo Noticias durante las 24hs del día en la Argentina y en el mundo. ★ Suscribite a nue...</desc>
-    <icon src="https://i.ytimg.com/vi/cb12KmMMDJA/maxresdefault.jpg?v=6519cc7c"/>
-  </programme>
-  <programme channel="TodoNoticias.ar" start="20250510130000 +0100" stop="20250510160000 +0100">
-    <title lang="en">TN EN VIVO - SEGUÍ LA TRANSMISIÓN EN VIVO DE TODO NOTICIAS</title>
-    <desc lang="en">SEGUÍ LA TRANSMISIÓN EN VIVO DE TODO NOTICIASMirá la programación de Todo Noticias durante las 24hs del día en la Argentina y en el mundo. ★ Suscribite a nue...</desc>
-    <icon src="https://i.ytimg.com/vi/cb12KmMMDJA/maxresdefault.jpg?v=6519cc7c"/>
-  </programme>
-  <programme channel="TodoNoticias.ar" start="20250510160000 +0100" stop="20250510190000 +0100">
-    <title lang="en">TN EN VIVO - SEGUÍ LA TRANSMISIÓN EN VIVO DE TODO NOTICIAS</title>
-    <desc lang="en">SEGUÍ LA TRANSMISIÓN EN VIVO DE TODO NOTICIASMirá la programación de Todo Noticias durante las 24hs del día en la Argentina y en el mundo. ★ Suscribite a nue...</desc>
-    <icon src="https://i.ytimg.com/vi/cb12KmMMDJA/maxresdefault.jpg?v=6519cc7c"/>
   </programme>
 </tv>
