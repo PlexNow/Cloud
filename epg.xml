@@ -1,1 +1,45 @@
-<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8"/>
+<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
+  <channel id="CronicaTV.ar">
+    <display-name lang="en">Crónica TV</display-name>
+  </channel>
+  <programme channel="CronicaTV.ar" start="20250626160000 +0100" stop="20250626190000 +0100">
+    <title lang="en">CRÓNICA EN VIVO LAS 24 HORAS</title>
+    <desc lang="en">Suscribite al canal líder de noticias de la Argentina, creador de un estilo informativo único con sus placas rojas #Crónica #CrónicaEnVIVO #Argentina #Notici...</desc>
+    <icon src="https://i.ytimg.com/vi/avly0uwZzOE/maxresdefault.jpg?v=65a8021d"/>
+  </programme>
+  <programme channel="CronicaTV.ar" start="20250626190000 +0100" stop="20250626220000 +0100">
+    <title lang="en">CRÓNICA EN VIVO LAS 24 HORAS</title>
+    <desc lang="en">Suscribite al canal líder de noticias de la Argentina, creador de un estilo informativo único con sus placas rojas #Crónica #CrónicaEnVIVO #Argentina #Notici...</desc>
+    <icon src="https://i.ytimg.com/vi/avly0uwZzOE/maxresdefault.jpg?v=65a8021d"/>
+  </programme>
+  <programme channel="CronicaTV.ar" start="20250626220000 +0100" stop="20250627010000 +0100">
+    <title lang="en">CRÓNICA EN VIVO LAS 24 HORAS</title>
+    <desc lang="en">Suscribite al canal líder de noticias de la Argentina, creador de un estilo informativo único con sus placas rojas #Crónica #CrónicaEnVIVO #Argentina #Notici...</desc>
+    <icon src="https://i.ytimg.com/vi/avly0uwZzOE/maxresdefault.jpg?v=65a8021d"/>
+  </programme>
+  <programme channel="CronicaTV.ar" start="20250627010000 +0100" stop="20250627040000 +0100">
+    <title lang="en">CRÓNICA EN VIVO LAS 24 HORAS</title>
+    <desc lang="en">Suscribite al canal líder de noticias de la Argentina, creador de un estilo informativo único con sus placas rojas #Crónica #CrónicaEnVIVO #Argentina #Notici...</desc>
+    <icon src="https://i.ytimg.com/vi/avly0uwZzOE/maxresdefault.jpg?v=65a8021d"/>
+  </programme>
+  <programme channel="CronicaTV.ar" start="20250627040000 +0100" stop="20250627070000 +0100">
+    <title lang="en">CRÓNICA EN VIVO LAS 24 HORAS</title>
+    <desc lang="en">Suscribite al canal líder de noticias de la Argentina, creador de un estilo informativo único con sus placas rojas #Crónica #CrónicaEnVIVO #Argentina #Notici...</desc>
+    <icon src="https://i.ytimg.com/vi/avly0uwZzOE/maxresdefault.jpg?v=65a8021d"/>
+  </programme>
+  <programme channel="CronicaTV.ar" start="20250627070000 +0100" stop="20250627100000 +0100">
+    <title lang="en">CRÓNICA EN VIVO LAS 24 HORAS</title>
+    <desc lang="en">Suscribite al canal líder de noticias de la Argentina, creador de un estilo informativo único con sus placas rojas #Crónica #CrónicaEnVIVO #Argentina #Notici...</desc>
+    <icon src="https://i.ytimg.com/vi/avly0uwZzOE/maxresdefault.jpg?v=65a8021d"/>
+  </programme>
+  <programme channel="CronicaTV.ar" start="20250627100000 +0100" stop="20250627130000 +0100">
+    <title lang="en">CRÓNICA EN VIVO LAS 24 HORAS</title>
+    <desc lang="en">Suscribite al canal líder de noticias de la Argentina, creador de un estilo informativo único con sus placas rojas #Crónica #CrónicaEnVIVO #Argentina #Notici...</desc>
+    <icon src="https://i.ytimg.com/vi/avly0uwZzOE/maxresdefault.jpg?v=65a8021d"/>
+  </programme>
+  <programme channel="CronicaTV.ar" start="20250627130000 +0100" stop="20250627160000 +0100">
+    <title lang="en">CRÓNICA EN VIVO LAS 24 HORAS</title>
+    <desc lang="en">Suscribite al canal líder de noticias de la Argentina, creador de un estilo informativo único con sus placas rojas #Crónica #CrónicaEnVIVO #Argentina #Notici...</desc>
+    <icon src="https://i.ytimg.com/vi/avly0uwZzOE/maxresdefault.jpg?v=65a8021d"/>
+  </programme>
+</tv>
