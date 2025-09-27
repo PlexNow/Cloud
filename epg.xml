@@ -1,1 +1,45 @@
-<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8"/>
+<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
+  <channel id="TodoNoticias.ar">
+    <display-name lang="en">TN Todo Noticias</display-name>
+  </channel>
+  <programme channel="TodoNoticias.ar" start="20250927200000 +0100" stop="20250927230000 +0100">
+    <title lang="en">TN EN VIVO - SEGUÍ LA TRANSMISIÓN EN VIVO DE TODO NOTICIAS</title>
+    <desc lang="en">Mirá la programación de Todo Noticias durante las 24hs del día en la Argentina y en el mundo. ★ Suscribite a nuestro canal → https://bit.ly/365OTiS★ Informat...</desc>
+    <icon src="https://i.ytimg.com/vi/cb12KmMMDJA/maxresdefault.jpg?v=68277dec"/>
+  </programme>
+  <programme channel="TodoNoticias.ar" start="20250927230000 +0100" stop="20250928020000 +0100">
+    <title lang="en">TN EN VIVO - SEGUÍ LA TRANSMISIÓN EN VIVO DE TODO NOTICIAS</title>
+    <desc lang="en">Mirá la programación de Todo Noticias durante las 24hs del día en la Argentina y en el mundo. ★ Suscribite a nuestro canal → https://bit.ly/365OTiS★ Informat...</desc>
+    <icon src="https://i.ytimg.com/vi/cb12KmMMDJA/maxresdefault.jpg?v=68277dec"/>
+  </programme>
+  <programme channel="TodoNoticias.ar" start="20250928020000 +0100" stop="20250928050000 +0100">
+    <title lang="en">TN EN VIVO - SEGUÍ LA TRANSMISIÓN EN VIVO DE TODO NOTICIAS</title>
+    <desc lang="en">Mirá la programación de Todo Noticias durante las 24hs del día en la Argentina y en el mundo. ★ Suscribite a nuestro canal → https://bit.ly/365OTiS★ Informat...</desc>
+    <icon src="https://i.ytimg.com/vi/cb12KmMMDJA/maxresdefault.jpg?v=68277dec"/>
+  </programme>
+  <programme channel="TodoNoticias.ar" start="20250928050000 +0100" stop="20250928080000 +0100">
+    <title lang="en">TN EN VIVO - SEGUÍ LA TRANSMISIÓN EN VIVO DE TODO NOTICIAS</title>
+    <desc lang="en">Mirá la programación de Todo Noticias durante las 24hs del día en la Argentina y en el mundo. ★ Suscribite a nuestro canal → https://bit.ly/365OTiS★ Informat...</desc>
+    <icon src="https://i.ytimg.com/vi/cb12KmMMDJA/maxresdefault.jpg?v=68277dec"/>
+  </programme>
+  <programme channel="TodoNoticias.ar" start="20250928080000 +0100" stop="20250928110000 +0100">
+    <title lang="en">TN EN VIVO - SEGUÍ LA TRANSMISIÓN EN VIVO DE TODO NOTICIAS</title>
+    <desc lang="en">Mirá la programación de Todo Noticias durante las 24hs del día en la Argentina y en el mundo. ★ Suscribite a nuestro canal → https://bit.ly/365OTiS★ Informat...</desc>
+    <icon src="https://i.ytimg.com/vi/cb12KmMMDJA/maxresdefault.jpg?v=68277dec"/>
+  </programme>
+  <programme channel="TodoNoticias.ar" start="20250928110000 +0100" stop="20250928140000 +0100">
+    <title lang="en">TN EN VIVO - SEGUÍ LA TRANSMISIÓN EN VIVO DE TODO NOTICIAS</title>
+    <desc lang="en">Mirá la programación de Todo Noticias durante las 24hs del día en la Argentina y en el mundo. ★ Suscribite a nuestro canal → https://bit.ly/365OTiS★ Informat...</desc>
+    <icon src="https://i.ytimg.com/vi/cb12KmMMDJA/maxresdefault.jpg?v=68277dec"/>
+  </programme>
+  <programme channel="TodoNoticias.ar" start="20250928140000 +0100" stop="20250928170000 +0100">
+    <title lang="en">TN EN VIVO - SEGUÍ LA TRANSMISIÓN EN VIVO DE TODO NOTICIAS</title>
+    <desc lang="en">Mirá la programación de Todo Noticias durante las 24hs del día en la Argentina y en el mundo. ★ Suscribite a nuestro canal → https://bit.ly/365OTiS★ Informat...</desc>
+    <icon src="https://i.ytimg.com/vi/cb12KmMMDJA/maxresdefault.jpg?v=68277dec"/>
+  </programme>
+  <programme channel="TodoNoticias.ar" start="20250928170000 +0100" stop="20250928200000 +0100">
+    <title lang="en">TN EN VIVO - SEGUÍ LA TRANSMISIÓN EN VIVO DE TODO NOTICIAS</title>
+    <desc lang="en">Mirá la programación de Todo Noticias durante las 24hs del día en la Argentina y en el mundo. ★ Suscribite a nuestro canal → https://bit.ly/365OTiS★ Informat...</desc>
+    <icon src="https://i.ytimg.com/vi/cb12KmMMDJA/maxresdefault.jpg?v=68277dec"/>
+  </programme>
+</tv>
