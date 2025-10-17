@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-name="﻿Quiero Música TV." tvg-logo="https://www.qmusica.tv/qmusica_logo_1.png" group-title="Tv En Vivo" tvg-id="QuieroMusicaTV.ar",﻿Quiero Música TV
-https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1760735578/ei/-VzyaPLaOtullu8Px9O9iQY/ip/64.236.193.22/id/8Mw0YdKN2XY.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51554425/txs/51554424%2C51554425/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/ATw7iSX9VgRCxZ8l9M67xnQmp7qLtCqhx3wFcU6gOAfLHOmkQxTaVssetawbCw00Uwgi335AiPNQZb7h/spc/hcYD5Z3ZcDM7PB0eb-hCghtVTj4ioboAR2dQLOKKA9bOgTdgaxvZ38zouPY5fcawDdc/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJN2aXQ6VhLcTIyt6By6mW8ZKqj-CME7rALNEyRFpOYTAiEAvr5dBdluXWye77xs9XQOpkU18FzeVIdl9xJW7stVAUU%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-name="Canal Rural." tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/11.png" group-title="Tv En Vivo" tvg-id="CanalRural.ar",Canal Rural
 https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
@@ -16,7 +16,7 @@ https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream
 https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 
 #EXTINF:-1 tvg-name="EuroNews Español." tvg-logo=".png" group-title="Tv En Vivo" tvg-id="EuroNews.es",EuroNews Español
-https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1760735581/ei/_VzyaKHsEcSw2_gP0LDmyQE/ip/64.236.193.22/id/O9mOtdZ-nSk.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51554424/txs/51554424%2C51554425/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/ATw7iSX1bdI0lNb6CDJSzlZ9moYoIiEssov1ZqqZHE6pZf82FvOpkS_Ghd6tLsJvXrT7IRv479kOeCHa/spc/hcYD5RuY45Ilx8_ThklAjgrjkbt-i14mAG2cwJhuB_16IZqFUSTgNAUNg9STFAtudP0/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAPDOUZdS6-wHMBQoAnBLSinAWS8cxHKnqlNBdmwBWuaBAiEA2bt2A99x9iozzQY9pbvcL5REAU1F3AbDrZK1iMgqqws%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-name="France 24 Español." tvg-logo=".png" group-title="Tv En Vivo" tvg-id="France24.es",France 24 Español
 https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
@@ -34,7 +34,7 @@ https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream
 https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 
 #EXTINF:-1 tvg-name="Crónica TV." tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/3.png" group-title="Tv En Vivo" tvg-id="CronicaTV.ar",Crónica TV
-https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1760735584/ei/AF3yaP-ZGY2Glu8PoPnziAg/ip/64.236.193.22/id/avly0uwZzOE.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51567920/txs/51567915%2C51567916%2C51567920/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/ATw7iSVRxcxryB9K26yTaqRNMm8nQeG81LXGaJiJ5KwN5eewCjeT2TuD3AgCpNZU1rYCc2E2xx6wtyY8/spc/hcYD5R00J25e0KEZn6vIMI8orlWbU51Dn_cL9-g0ojEWDvMtMx3QK9FkRGjS7TSWeDw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAMmzBe7SFiVqnzjEDv8i5nE-z1-8DwE5UQmScPhrls9nAiAqo6oc-TrJhLSJ-g3mHz_eQ59SJ8TvacC_zuLvjo-Wwg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-name="La Nación+." tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/3644.png" group-title="Tv En Vivo" tvg-id="LaNacion.ar",La Nación+
 https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
