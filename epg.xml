@@ -1,1 +1,45 @@
-<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8"/>
+<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
+  <channel id="France24.es">
+    <display-name lang="en">France 24 Español</display-name>
+  </channel>
+  <programme channel="France24.es" start="20251210130000 +0000" stop="20251210160000 +0000">
+    <title lang="en">FRANCE 24 Español – EN VIVO – Información internacional y noticias del mundo 24 horas</title>
+    <desc lang="en">🔴 Vea France 24 en VIVO gratuitamente: toda la actualidad internacional 24h/24.⌚ France 24 ya está disponible en español las 24 horas del día! 🔔 Suscriba a...</desc>
+    <icon src="https://i.ytimg.com/vi/Y-IlMeCCtIg/maxresdefault.jpg?v=66a3edf8"/>
+  </programme>
+  <programme channel="France24.es" start="20251210160000 +0000" stop="20251210190000 +0000">
+    <title lang="en">FRANCE 24 Español – EN VIVO – Información internacional y noticias del mundo 24 horas</title>
+    <desc lang="en">🔴 Vea France 24 en VIVO gratuitamente: toda la actualidad internacional 24h/24.⌚ France 24 ya está disponible en español las 24 horas del día! 🔔 Suscriba a...</desc>
+    <icon src="https://i.ytimg.com/vi/Y-IlMeCCtIg/maxresdefault.jpg?v=66a3edf8"/>
+  </programme>
+  <programme channel="France24.es" start="20251210190000 +0000" stop="20251210220000 +0000">
+    <title lang="en">FRANCE 24 Español – EN VIVO – Información internacional y noticias del mundo 24 horas</title>
+    <desc lang="en">🔴 Vea France 24 en VIVO gratuitamente: toda la actualidad internacional 24h/24.⌚ France 24 ya está disponible en español las 24 horas del día! 🔔 Suscriba a...</desc>
+    <icon src="https://i.ytimg.com/vi/Y-IlMeCCtIg/maxresdefault.jpg?v=66a3edf8"/>
+  </programme>
+  <programme channel="France24.es" start="20251210220000 +0000" stop="20251211010000 +0000">
+    <title lang="en">FRANCE 24 Español – EN VIVO – Información internacional y noticias del mundo 24 horas</title>
+    <desc lang="en">🔴 Vea France 24 en VIVO gratuitamente: toda la actualidad internacional 24h/24.⌚ France 24 ya está disponible en español las 24 horas del día! 🔔 Suscriba a...</desc>
+    <icon src="https://i.ytimg.com/vi/Y-IlMeCCtIg/maxresdefault.jpg?v=66a3edf8"/>
+  </programme>
+  <programme channel="France24.es" start="20251211010000 +0000" stop="20251211040000 +0000">
+    <title lang="en">FRANCE 24 Español – EN VIVO – Información internacional y noticias del mundo 24 horas</title>
+    <desc lang="en">🔴 Vea France 24 en VIVO gratuitamente: toda la actualidad internacional 24h/24.⌚ France 24 ya está disponible en español las 24 horas del día! 🔔 Suscriba a...</desc>
+    <icon src="https://i.ytimg.com/vi/Y-IlMeCCtIg/maxresdefault.jpg?v=66a3edf8"/>
+  </programme>
+  <programme channel="France24.es" start="20251211040000 +0000" stop="20251211070000 +0000">
+    <title lang="en">FRANCE 24 Español – EN VIVO – Información internacional y noticias del mundo 24 horas</title>
+    <desc lang="en">🔴 Vea France 24 en VIVO gratuitamente: toda la actualidad internacional 24h/24.⌚ France 24 ya está disponible en español las 24 horas del día! 🔔 Suscriba a...</desc>
+    <icon src="https://i.ytimg.com/vi/Y-IlMeCCtIg/maxresdefault.jpg?v=66a3edf8"/>
+  </programme>
+  <programme channel="France24.es" start="20251211070000 +0000" stop="20251211100000 +0000">
+    <title lang="en">FRANCE 24 Español – EN VIVO – Información internacional y noticias del mundo 24 horas</title>
+    <desc lang="en">🔴 Vea France 24 en VIVO gratuitamente: toda la actualidad internacional 24h/24.⌚ France 24 ya está disponible en español las 24 horas del día! 🔔 Suscriba a...</desc>
+    <icon src="https://i.ytimg.com/vi/Y-IlMeCCtIg/maxresdefault.jpg?v=66a3edf8"/>
+  </programme>
+  <programme channel="France24.es" start="20251211100000 +0000" stop="20251211130000 +0000">
+    <title lang="en">FRANCE 24 Español – EN VIVO – Información internacional y noticias del mundo 24 horas</title>
+    <desc lang="en">🔴 Vea France 24 en VIVO gratuitamente: toda la actualidad internacional 24h/24.⌚ France 24 ya está disponible en español las 24 horas del día! 🔔 Suscriba a...</desc>
+    <icon src="https://i.ytimg.com/vi/Y-IlMeCCtIg/maxresdefault.jpg?v=66a3edf8"/>
+  </programme>
+</tv>
