@@ -16,7 +16,7 @@ https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream
 https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 
 #EXTINF:-1 tvg-name="EuroNews Español." tvg-logo=".png" group-title="Tv En Vivo" tvg-id="EuroNews.es",EuroNews Español
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1770327255/ei/d7iEae-LJJSlir4Pzt2xmA4/ip/57.151.137.215/id/O9mOtdZ-nSk.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51691028/txs/51691027%2C51691028/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_osJtpysst2H3JRonwJLmdWF4y6QvYZHc_M780B8cXuxqgH9AkX5oElCJG_EZ5pKBp3fTAtPax3/spc/q5xjPD8hx3pUNE9JLvf3EXFpAghaAnc-OublMhE1mAlgBTbj4HGpDcKgBy5MfIwbYZgUlA/vprv/1/go/1/ns/R8Y1X9q3jpg1qFQkMWKmbkoS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968/dover/11/n/ugwuYW5tdMALSmMX0/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRgIhAIuS5JQN3sZvRXwr08kOJXQ8qC6_H_6r8TW_-Pa85rP7AiEAj_NzafCS-rlcfLPQuHRYOlmlSbIrmIlLx3BOI1HN-Q4%3D/file/index.m3u8
+https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 
 #EXTINF:-1 tvg-name="France 24 Español." tvg-logo=".png" group-title="Tv En Vivo" tvg-id="France24.es",France 24 Español
 https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
